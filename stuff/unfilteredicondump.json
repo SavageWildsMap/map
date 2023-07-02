@@ -1,0 +1,4920 @@
+{
+"labelIcon": {
+    "iconUrl": "/images/markers/marker-icon-transparent.png",
+    "iconSize": [150, 35],
+    "iconAnchor": [75, 15],
+    "popupAnchor": [0, -20]
+},
+"black_castleIcon": {
+    "iconUrl": "/images/markers/black_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_ruinIcon": {
+    "iconUrl": "/images/markers/black_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_campIcon": {
+    "iconUrl": "/images/markers/green_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_desertIcon": {
+    "iconUrl": "/images/markers/black_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_stableIcon": {
+    "iconUrl": "/images/markers/blue_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_systemIcon": {
+    "iconUrl": "/images/markers/green_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_asteroidIcon": {
+    "iconUrl": "/images/markers/violet_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_traderIcon": {
+    "iconUrl": "/images/markers/flat_white_trader.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_dishIcon": {
+    "iconUrl": "/images/markers/black_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_standardIcon": {
+    "iconUrl": "/images/markers/grey_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"grey_volcanoIcon": {
+    "iconUrl": "/images/markers/grey_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Blacksmith_Icon": {
+    "iconUrl": "/uploads/images/388487ecffc56d8a493b610ec608d3f3.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"blue_circleIcon": {
+    "iconUrl": "/images/markers/blue_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_churchIcon": {
+    "iconUrl": "/images/markers/grey_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_panelIcon": {
+    "iconUrl": "/images/markers/black_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_ruinIcon": {
+    "iconUrl": "/images/markers/blue_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_plainIcon": {
+    "iconUrl": "/images/markers/grey_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_volcanoIcon": {
+    "iconUrl": "/images/markers/yellow_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_cityIcon": {
+    "iconUrl": "/images/markers/yellow_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_farmIcon": {
+    "iconUrl": "/images/markers/blue_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_riverIcon": {
+    "iconUrl": "/images/markers/violet_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_stableIcon": {
+    "iconUrl": "/images/markers/yellow_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_portIcon": {
+    "iconUrl": "/images/markers/yellow_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"CimmerianCapital_Icon": {
+    "iconUrl": "/uploads/images/83bfb1347639699ab8d83a0f9d7fc5c2.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"yellow_forestIcon": {
+    "iconUrl": "/images/markers/yellow_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_squareIcon": {
+    "iconUrl": "/images/markers/green_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_starIcon": {
+    "iconUrl": "/images/markers/green_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_secretIcon": {
+    "iconUrl": "/images/markers/flat_white_secret.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_saddlerIcon": {
+    "iconUrl": "/images/markers/flat_white_saddler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"VanirCapital_Icon": {
+    "iconUrl": "/uploads/images/fe7ddf41a6bb37b2b57efce551db6e68.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"yellow_mountainsIcon": {
+    "iconUrl": "/images/markers/yellow_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_nuclearIcon": {
+    "iconUrl": "/images/markers/grey_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_forestIcon": {
+    "iconUrl": "/images/markers/black_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_camp2Icon": {
+    "iconUrl": "/images/markers/flat_white_camp2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"red_fuelIcon": {
+    "iconUrl": "/images/markers/red_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_dungeonIcon": {
+    "iconUrl": "/images/markers/violet_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_volcanoIcon": {
+    "iconUrl": "/images/markers/green_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_ship_caravelIcon": {
+    "iconUrl": "/images/markers/flat_white_ship_caravel.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_monsterIcon": {
+    "iconUrl": "/images/markers/flat_white_monster.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_musicIcon": {
+    "iconUrl": "/images/markers/flat_black_music.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_flag3Icon": {
+    "iconUrl": "/images/markers/flat_black_flag3.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_beastIcon": {
+    "iconUrl": "/images/markers/flat_black_beast.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_dishIcon": {
+    "iconUrl": "/images/markers/orange_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_villageIcon": {
+    "iconUrl": "/images/markers/green_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_planetringIcon": {
+    "iconUrl": "/images/markers/violet_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_villageIcon": {
+    "iconUrl": "/images/markers/black_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_moonIcon": {
+    "iconUrl": "/images/markers/orange_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_waterfallIcon": {
+    "iconUrl": "/images/markers/violet_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_churchIcon": {
+    "iconUrl": "/images/markers/yellow_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_chandlerIcon": {
+    "iconUrl": "/images/markers/flat_black_chandler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_spyIcon": {
+    "iconUrl": "/images/markers/flat_black_spy.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_alchemistIcon": {
+    "iconUrl": "/images/markers/flat_black_alchemist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_starIcon": {
+    "iconUrl": "/images/markers/flat_black_star.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_white_gloverIcon": {
+    "iconUrl": "/images/markers/flat_white_glover.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_bridgeIcon": {
+    "iconUrl": "/images/markers/flat_white_bridge.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_desertIcon": {
+    "iconUrl": "/images/markers/grey_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_moonIcon": {
+    "iconUrl": "/images/markers/black_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_suppliesIcon": {
+    "iconUrl": "/images/markers/flat_black_supplies.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_stableIcon": {
+    "iconUrl": "/images/markers/black_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_armorsmithIcon": {
+    "iconUrl": "/images/markers/flat_black_armorsmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_riverIcon": {
+    "iconUrl": "/images/markers/yellow_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_fuelIcon": {
+    "iconUrl": "/images/markers/yellow_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_ruinIcon": {
+    "iconUrl": "/images/markers/red_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_triangleIcon": {
+    "iconUrl": "/images/markers/orange_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Set_Icon": {
+    "iconUrl": "/uploads/images/310128f06986a7a02f22350cddffbcd2.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_towerIcon": {
+    "iconUrl": "/images/markers/flat_white_tower.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_ship_triremeIcon": {
+    "iconUrl": "/images/markers/flat_black_ship_trireme.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_questionmarkIcon": {
+    "iconUrl": "/images/markers/orange_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_forestIcon": {
+    "iconUrl": "/images/markers/violet_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_mountainsIcon": {
+    "iconUrl": "/images/markers/blue_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_plainIcon": {
+    "iconUrl": "/images/markers/violet_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_asteroidIcon": {
+    "iconUrl": "/images/markers/orange_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_castleIcon": {
+    "iconUrl": "/images/markers/blue_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_laundryIcon": {
+    "iconUrl": "/images/markers/flat_black_laundry.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_dragonIcon": {
+    "iconUrl": "/images/markers/flat_white_dragon.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_questionmarkIcon": {
+    "iconUrl": "/images/markers/blue_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_laundryIcon": {
+    "iconUrl": "/images/markers/flat_white_laundry.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_architectIcon": {
+    "iconUrl": "/images/markers/flat_black_architect.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_speech_questionmarkIcon": {
+    "iconUrl": "/images/markers/flat_black_speech_questionmark.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_dragonIcon": {
+    "iconUrl": "/images/markers/flat_black_dragon.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/yellow_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_flag2Icon": {
+    "iconUrl": "/images/markers/flat_black_flag2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_ruinIcon": {
+    "iconUrl": "/images/markers/violet_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_ship_sloopIcon": {
+    "iconUrl": "/images/markers/flat_black_ship_sloop.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_helmetIcon": {
+    "iconUrl": "/images/markers/flat_black_helmet.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_number_3Icon": {
+    "iconUrl": "/images/markers/flat_white_number_3.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_volcanoIcon": {
+    "iconUrl": "/images/markers/blue_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_medicalIcon": {
+    "iconUrl": "/images/markers/flat_black_medical.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_churchIcon": {
+    "iconUrl": "/images/markers/orange_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Altar_Icon": {
+    "iconUrl": "/uploads/images/b9dcf0ccad08797997013b37d06a608c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"blue_starIcon": {
+    "iconUrl": "/images/markers/blue_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Generic5_Icon": {
+    "iconUrl": "/uploads/images/dfb4ba1678af7915794522179d66a820.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"green_asteroidIcon": {
+    "iconUrl": "/images/markers/green_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_factoryIcon": {
+    "iconUrl": "/images/markers/orange_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"SettlementsTownBlackWorldAnvilIcon": {
+    "iconUrl": "/uploads/images/63b9bab92d5da0623c4b9f4fffc9ed48.png",
+    "iconSize": [28, 28],
+    "iconAnchor": [14, 14],
+    "popupAnchor": [-1, -10]
+},
+"flat_white_castleIcon": {
+    "iconUrl": "/images/markers/flat_white_castle.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"Camp_Icon": {
+    "iconUrl": "/uploads/images/bbffee432b5fa9d865851602936f4232.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_shipIcon": {
+    "iconUrl": "/images/markers/red_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_desertIcon": {
+    "iconUrl": "/images/markers/yellow_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_seaIcon": {
+    "iconUrl": "/images/markers/yellow_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_tavernIcon": {
+    "iconUrl": "/images/markers/black_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_herbalistIcon": {
+    "iconUrl": "/images/markers/flat_black_herbalist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_campIcon": {
+    "iconUrl": "/images/markers/orange_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_cobblerIcon": {
+    "iconUrl": "/images/markers/flat_black_cobbler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_shipIcon": {
+    "iconUrl": "/images/markers/blue_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Mitra_Icon": {
+    "iconUrl": "/uploads/images/172610d8828a073540f4e99cbd6c79b4.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_ruin1Icon": {
+    "iconUrl": "/images/markers/flat_black_ruin1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"green_panelIcon": {
+    "iconUrl": "/images/markers/green_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_mountainsIcon": {
+    "iconUrl": "/images/markers/grey_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_panelIcon": {
+    "iconUrl": "/images/markers/blue_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_7Icon": {
+    "iconUrl": "/images/markers/flat_white_number_7.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_farmIcon": {
+    "iconUrl": "/images/markers/yellow_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Vista_Icon": {
+    "iconUrl": "/uploads/images/b6356963d3ee96833560e6f66722fa1d.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"Vanir_Icon": {
+    "iconUrl": "/uploads/images/2253cbad223ca15fb188fd687774bd3f.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_villageIcon": {
+    "iconUrl": "/images/markers/red_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_portIcon": {
+    "iconUrl": "/images/markers/red_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_capitolIcon": {
+    "iconUrl": "/images/markers/violet_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_9Icon": {
+    "iconUrl": "/images/markers/flat_black_number_9.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_brothelIcon": {
+    "iconUrl": "/images/markers/flat_black_brothel.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_planetIcon": {
+    "iconUrl": "/images/markers/green_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_seaIcon": {
+    "iconUrl": "/images/markers/green_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_graveyardIcon": {
+    "iconUrl": "/images/markers/flat_black_graveyard.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_portIcon": {
+    "iconUrl": "/images/markers/green_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Treasure_Icon": {
+    "iconUrl": "/uploads/images/5a2f78f64361a77acf8ba59fe32fac72.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"violet_farmIcon": {
+    "iconUrl": "/images/markers/violet_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_portIcon": {
+    "iconUrl": "/images/markers/orange_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_standardIcon": {
+    "iconUrl": "/images/markers/green_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"Tanner_Icon": {
+    "iconUrl": "/uploads/images/994294303808110fe064b4cf486bd7b5.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_mine2Icon": {
+    "iconUrl": "/images/markers/flat_white_mine2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_white_engineerIcon": {
+    "iconUrl": "/images/markers/flat_white_engineer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_speech_exclamationIcon": {
+    "iconUrl": "/images/markers/flat_white_speech_exclamation.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_herbalistIcon": {
+    "iconUrl": "/images/markers/flat_white_herbalist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_circleIcon": {
+    "iconUrl": "/images/markers/red_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_campIcon": {
+    "iconUrl": "/images/markers/blue_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_flag1Icon": {
+    "iconUrl": "/images/markers/flat_black_flag1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_wineryIcon": {
+    "iconUrl": "/images/markers/flat_white_winery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_medicalIcon": {
+    "iconUrl": "/images/markers/flat_white_medical.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_heartbeatIcon": {
+    "iconUrl": "/images/markers/flat_white_heartbeat.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_beastIcon": {
+    "iconUrl": "/images/markers/flat_white_beast.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_mountainsIcon": {
+    "iconUrl": "/images/markers/red_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_marketIcon": {
+    "iconUrl": "/images/markers/flat_black_market.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_riverIcon": {
+    "iconUrl": "/images/markers/orange_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_churchIcon": {
+    "iconUrl": "/images/markers/black_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_panelIcon": {
+    "iconUrl": "/images/markers/orange_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_riverIcon": {
+    "iconUrl": "/images/markers/blue_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_flag1Icon": {
+    "iconUrl": "/images/markers/flat_white_flag1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_mountainsIcon": {
+    "iconUrl": "/images/markers/green_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_helmetIcon": {
+    "iconUrl": "/images/markers/flat_white_helmet.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_suppliesIcon": {
+    "iconUrl": "/images/markers/flat_white_supplies.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_pirateIcon": {
+    "iconUrl": "/images/markers/flat_white_pirate.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_planetIcon": {
+    "iconUrl": "/images/markers/blue_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_weaponsmithIcon": {
+    "iconUrl": "/images/markers/flat_white_weaponsmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_carpenterIcon": {
+    "iconUrl": "/images/markers/flat_black_carpenter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/orange_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_portIcon": {
+    "iconUrl": "/images/markers/grey_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_4Icon": {
+    "iconUrl": "/images/markers/flat_white_number_4.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_plainIcon": {
+    "iconUrl": "/images/markers/black_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_factoryIcon": {
+    "iconUrl": "/images/markers/grey_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_forestIcon": {
+    "iconUrl": "/images/markers/red_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_standardIcon": {
+    "iconUrl": "/images/markers/yellow_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"blue_dungeonIcon": {
+    "iconUrl": "/images/markers/blue_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_planetIcon": {
+    "iconUrl": "/images/markers/orange_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_seaIcon": {
+    "iconUrl": "/images/markers/grey_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"SummonedAvatar_Icon": {
+    "iconUrl": "/uploads/images/138c698fb58c4253be5525270d38c032.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"Lore_Icon": {
+    "iconUrl": "/uploads/images/bab3f4b40e84d5d468ac5380dcde5e7c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"violet_seaIcon": {
+    "iconUrl": "/images/markers/violet_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_animalIcon": {
+    "iconUrl": "/images/markers/flat_black_animal.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_barberIcon": {
+    "iconUrl": "/images/markers/flat_black_barber.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_traderIcon": {
+    "iconUrl": "/images/markers/flat_black_trader.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_bakerIcon": {
+    "iconUrl": "/images/markers/flat_white_baker.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_tavernIcon": {
+    "iconUrl": "/images/markers/grey_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_jollyrogerIcon": {
+    "iconUrl": "/images/markers/flat_black_jollyroger.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_falconerIcon": {
+    "iconUrl": "/images/markers/flat_black_falconer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_marketIcon": {
+    "iconUrl": "/images/markers/flat_white_market.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_number_5Icon": {
+    "iconUrl": "/images/markers/flat_white_number_5.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_haberdasheryIcon": {
+    "iconUrl": "/images/markers/flat_black_haberdashery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_swords_crossedIcon": {
+    "iconUrl": "/images/markers/flat_white_swords_crossed.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_butcherIcon": {
+    "iconUrl": "/images/markers/flat_black_butcher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_fuelIcon": {
+    "iconUrl": "/images/markers/blue_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_swampIcon": {
+    "iconUrl": "/images/markers/violet_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"LemurianCapital_Icon": {
+    "iconUrl": "/uploads/images/f6ec7e7be6e2751b69de7ad7baf419b7.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_trapIcon": {
+    "iconUrl": "/images/markers/flat_black_trap.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_wingIcon": {
+    "iconUrl": "/images/markers/flat_white_wing.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_artIcon": {
+    "iconUrl": "/images/markers/flat_black_art.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_castleIcon": {
+    "iconUrl": "/images/markers/orange_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_chandlerIcon": {
+    "iconUrl": "/images/markers/flat_white_chandler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_rogueIcon": {
+    "iconUrl": "/images/markers/flat_white_rogue.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_capitolIcon": {
+    "iconUrl": "/images/markers/black_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_cityIcon": {
+    "iconUrl": "/images/markers/flat_black_city.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_castleIcon": {
+    "iconUrl": "/images/markers/grey_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_villageIcon": {
+    "iconUrl": "/images/markers/yellow_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_2Icon": {
+    "iconUrl": "/images/markers/flat_black_number_2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_number_3Icon": {
+    "iconUrl": "/images/markers/flat_black_number_3.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_meatIcon": {
+    "iconUrl": "/images/markers/flat_white_meat.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"special_invisibleIcon": {
+    "iconUrl": "/images/markers/special_invisible.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 20],
+    "popupAnchor": [1, -20]
+},
+"flat_black_tavernIcon": {
+    "iconUrl": "/images/markers/flat_black_tavern.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Danger_Icon": {
+    "iconUrl": "/uploads/images/30f157d0ab3347bd82aebb73ca16b82e.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_carpenterIcon": {
+    "iconUrl": "/images/markers/flat_white_carpenter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_secretIcon": {
+    "iconUrl": "/images/markers/flat_black_secret.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_brothelIcon": {
+    "iconUrl": "/images/markers/flat_white_brothel.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_number_6Icon": {
+    "iconUrl": "/images/markers/flat_black_number_6.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_factoryIcon": {
+    "iconUrl": "/images/markers/black_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_auditoriumIcon": {
+    "iconUrl": "/images/markers/flat_black_auditorium.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Generic4_Icon": {
+    "iconUrl": "/uploads/images/ba2cde121e07cc4a19274dc8e2dfc80d.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"orange_dangerIcon": {
+    "iconUrl": "/images/markers/orange_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_grocerIcon": {
+    "iconUrl": "/images/markers/flat_white_grocer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_portIcon": {
+    "iconUrl": "/images/markers/flat_white_port.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"violet_portIcon": {
+    "iconUrl": "/images/markers/violet_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_dishIcon": {
+    "iconUrl": "/images/markers/violet_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_riverIcon": {
+    "iconUrl": "/images/markers/green_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_cartographerIcon": {
+    "iconUrl": "/images/markers/flat_black_cartographer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_cartographerIcon": {
+    "iconUrl": "/images/markers/flat_white_cartographer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_animalIcon": {
+    "iconUrl": "/images/markers/flat_white_animal.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Filter_Icon": {
+    "iconUrl": "/uploads/images/119c3ee3a0bc59e1c13bbd74739564bf.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"orange_mountainsIcon": {
+    "iconUrl": "/images/markers/orange_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_9Icon": {
+    "iconUrl": "/images/markers/flat_white_number_9.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_nuclearIcon": {
+    "iconUrl": "/images/markers/yellow_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_hillsIcon": {
+    "iconUrl": "/images/markers/grey_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_gloverIcon": {
+    "iconUrl": "/images/markers/flat_black_glover.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_falconerIcon": {
+    "iconUrl": "/images/markers/flat_white_falconer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Bedroll_Icon": {
+    "iconUrl": "/uploads/images/11e7f77115149ec24de3846b42b72947.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_scientistIcon": {
+    "iconUrl": "/images/markers/flat_white_scientist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_sunstarIcon": {
+    "iconUrl": "/images/markers/orange_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_swordIcon": {
+    "iconUrl": "/images/markers/flat_white_sword.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/red_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_ship_sloopIcon": {
+    "iconUrl": "/images/markers/flat_white_ship_sloop.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_cityIcon": {
+    "iconUrl": "/images/markers/black_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_1Icon": {
+    "iconUrl": "/images/markers/flat_black_number_1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_furrierIcon": {
+    "iconUrl": "/images/markers/flat_white_furrier.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_planetringIcon": {
+    "iconUrl": "/images/markers/blue_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_moonIcon": {
+    "iconUrl": "/images/markers/red_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_innIcon": {
+    "iconUrl": "/images/markers/flat_white_inn.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_cityIcon": {
+    "iconUrl": "/images/markers/flat_white_city.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_ruinIcon": {
+    "iconUrl": "/images/markers/grey_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_dungeonIcon": {
+    "iconUrl": "/images/markers/black_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_villageIcon": {
+    "iconUrl": "/images/markers/grey_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_houseIcon": {
+    "iconUrl": "/images/markers/flat_white_house.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_bakerIcon": {
+    "iconUrl": "/images/markers/flat_black_baker.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_waterfallIcon": {
+    "iconUrl": "/images/markers/red_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_jewelerIcon": {
+    "iconUrl": "/images/markers/flat_white_jeweler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_treasureIcon": {
+    "iconUrl": "/images/markers/flat_black_treasure.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Generic3_Icon": {
+    "iconUrl": "/uploads/images/3d54edd96a00bb75647f3bd9bfd3fd87.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_dangerIcon": {
+    "iconUrl": "/images/markers/red_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_dungeonIcon": {
+    "iconUrl": "/images/markers/green_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_ruin2Icon": {
+    "iconUrl": "/images/markers/flat_white_ruin2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"green_factoryIcon": {
+    "iconUrl": "/images/markers/green_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_tanneryIcon": {
+    "iconUrl": "/images/markers/flat_white_tannery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_moonIcon": {
+    "iconUrl": "/images/markers/violet_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Priest_Icon": {
+    "iconUrl": "/uploads/images/8d2986f220f55d07b7ba4d9c08d2501b.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"green_towerIcon": {
+    "iconUrl": "/images/markers/green_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_campIcon": {
+    "iconUrl": "/images/markers/violet_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_questionmarkIcon": {
+    "iconUrl": "/images/markers/violet_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_nuclearIcon": {
+    "iconUrl": "/images/markers/orange_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_breweryIcon": {
+    "iconUrl": "/images/markers/flat_black_brewery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Armorer_Icon": {
+    "iconUrl": "/uploads/images/92f3528ceea2fae390545563a1119774.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_shipwrightIcon": {
+    "iconUrl": "/images/markers/flat_white_shipwright.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_dungeonIcon": {
+    "iconUrl": "/images/markers/yellow_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"SerpentmenCapital_Icon": {
+    "iconUrl": "/uploads/images/89bc450b7804afe44ed769c4d48c3b8d.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"yellow_castleIcon": {
+    "iconUrl": "/images/markers/yellow_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_mine1Icon": {
+    "iconUrl": "/images/markers/flat_white_mine1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"orange_plainIcon": {
+    "iconUrl": "/images/markers/orange_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_ship_triremeIcon": {
+    "iconUrl": "/images/markers/flat_white_ship_trireme.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_triangleIcon": {
+    "iconUrl": "/images/markers/grey_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_8Icon": {
+    "iconUrl": "/images/markers/flat_black_number_8.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_circleIcon": {
+    "iconUrl": "/images/markers/grey_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_farmIcon": {
+    "iconUrl": "/images/markers/flat_white_farm.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_white_starIcon": {
+    "iconUrl": "/images/markers/flat_white_star.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_squareIcon": {
+    "iconUrl": "/images/markers/grey_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"SettlementsLargeVillageorSmallTownBlackWorldAnvilIcon": {
+    "iconUrl": "/uploads/images/76707a831ee83383f2f5bcaa4198b691.png",
+    "iconSize": [28, 28],
+    "iconAnchor": [14, 14],
+    "popupAnchor": [1, -10]
+},
+"flat_black_stableIcon": {
+    "iconUrl": "/images/markers/flat_black_stable.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"Smelter_Icon": {
+    "iconUrl": "/uploads/images/6aa2537fdb7b2147f10c83cfee909923.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_tailorIcon": {
+    "iconUrl": "/images/markers/flat_white_tailor.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_flagIcon": {
+    "iconUrl": "/images/markers/flat_white_flag.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_seaIcon": {
+    "iconUrl": "/images/markers/blue_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_mineIcon": {
+    "iconUrl": "/images/markers/violet_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_circleIcon": {
+    "iconUrl": "/images/markers/violet_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Darfari_Icon": {
+    "iconUrl": "/uploads/images/d7029979e1a0fbb72cfe41e499f4521c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_housesIcon": {
+    "iconUrl": "/images/markers/flat_black_houses.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_waterfallIcon": {
+    "iconUrl": "/images/markers/grey_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"UnnamedCityCapital_Icon": {
+    "iconUrl": "/uploads/images/874cacc1ea966181c4486385d43b97fb.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_sunstarIcon": {
+    "iconUrl": "/images/markers/black_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_planetIcon": {
+    "iconUrl": "/images/markers/violet_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_triangleIcon": {
+    "iconUrl": "/images/markers/red_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_towerIcon": {
+    "iconUrl": "/images/markers/flat_black_tower.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_white_flagmedicIcon": {
+    "iconUrl": "/images/markers/flat_white_flagmedic.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_desertIcon": {
+    "iconUrl": "/images/markers/green_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_tavernIcon": {
+    "iconUrl": "/images/markers/blue_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_sunstarIcon": {
+    "iconUrl": "/images/markers/blue_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_fletcherIcon": {
+    "iconUrl": "/images/markers/flat_black_fletcher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_stableIcon": {
+    "iconUrl": "/images/markers/violet_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_blacksmithIcon": {
+    "iconUrl": "/images/markers/flat_black_blacksmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_cityIcon": {
+    "iconUrl": "/images/markers/green_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_waterfallIcon": {
+    "iconUrl": "/images/markers/orange_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_capitolIcon": {
+    "iconUrl": "/images/markers/blue_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_churchIcon": {
+    "iconUrl": "/images/markers/violet_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_monsterIcon": {
+    "iconUrl": "/images/markers/flat_black_monster.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_perfumerIcon": {
+    "iconUrl": "/images/markers/flat_black_perfumer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_standardIcon": {
+    "iconUrl": "/images/markers/violet_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"flat_black_meatIcon": {
+    "iconUrl": "/images/markers/flat_black_meat.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_sunstarIcon": {
+    "iconUrl": "/images/markers/violet_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_2Icon": {
+    "iconUrl": "/images/markers/flat_white_number_2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_guildIcon": {
+    "iconUrl": "/images/markers/flat_white_guild.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_plainIcon": {
+    "iconUrl": "/images/markers/green_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_cityIcon": {
+    "iconUrl": "/images/markers/red_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_tailorIcon": {
+    "iconUrl": "/images/markers/flat_black_tailor.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"UnnamedCity_Icon": {
+    "iconUrl": "/uploads/images/60034e9cc6c493ab6f3e1951c402379c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_portIcon": {
+    "iconUrl": "/images/markers/black_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Cave_Icon": {
+    "iconUrl": "/uploads/images/5313bb57d9ac821dc2fb484612e3471a.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_bowIcon": {
+    "iconUrl": "/images/markers/flat_white_bow.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_panelIcon": {
+    "iconUrl": "/images/markers/yellow_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Alchemist_Icon": {
+    "iconUrl": "/uploads/images/21f10b9e961646364fcc21f09870610a.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"green_sunstarIcon": {
+    "iconUrl": "/images/markers/green_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_farmIcon": {
+    "iconUrl": "/images/markers/green_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_moonIcon": {
+    "iconUrl": "/images/markers/blue_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"JhebbalSag_Icon": {
+    "iconUrl": "/uploads/images/b0bcf282ca3c7360d7f8fcc687226e5c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_mine2Icon": {
+    "iconUrl": "/images/markers/flat_black_mine2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_bridgeIcon": {
+    "iconUrl": "/images/markers/flat_black_bridge.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_shipIcon": {
+    "iconUrl": "/images/markers/grey_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_desertIcon": {
+    "iconUrl": "/images/markers/blue_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_speech_exclamationIcon": {
+    "iconUrl": "/images/markers/flat_black_speech_exclamation.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_ruinIcon": {
+    "iconUrl": "/images/markers/yellow_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Carpenter_Icon": {
+    "iconUrl": "/uploads/images/119146703b88296f389c963c8824555e.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_engineerIcon": {
+    "iconUrl": "/images/markers/flat_black_engineer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_toymakerIcon": {
+    "iconUrl": "/images/markers/flat_black_toymaker.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_tavernIcon": {
+    "iconUrl": "/images/markers/yellow_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_campIcon": {
+    "iconUrl": "/images/markers/grey_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_capitolIcon": {
+    "iconUrl": "/images/markers/red_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_flagstandardIcon": {
+    "iconUrl": "/images/markers/flat_black_flagstandard.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_flagmedicIcon": {
+    "iconUrl": "/images/markers/flat_black_flagmedic.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"DogsoftheDesertCapital_Icon": {
+    "iconUrl": "/uploads/images/e08be3032771f011e7644466178ba1ba.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_sunstarIcon": {
+    "iconUrl": "/images/markers/red_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_planetringIcon": {
+    "iconUrl": "/images/markers/yellow_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_campIcon": {
+    "iconUrl": "/images/markers/yellow_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_axeIcon": {
+    "iconUrl": "/images/markers/flat_white_axe.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_squareIcon": {
+    "iconUrl": "/images/markers/red_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Mineral_Icon": {
+    "iconUrl": "/uploads/images/df63224e3fa4f9509053963ba554e523.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"yellow_triangleIcon": {
+    "iconUrl": "/images/markers/yellow_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Plant_Icon": {
+    "iconUrl": "/uploads/images/d9ce837fe091ad65df4e2db3b02db5ce.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"violet_panelIcon": {
+    "iconUrl": "/images/markers/violet_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_furrierIcon": {
+    "iconUrl": "/images/markers/flat_black_furrier.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_candyIcon": {
+    "iconUrl": "/images/markers/flat_white_candy.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_weaponsmithIcon": {
+    "iconUrl": "/images/markers/flat_black_weaponsmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_quest_scrollIcon": {
+    "iconUrl": "/images/markers/flat_black_quest_scroll.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Generic2_Icon": {
+    "iconUrl": "/uploads/images/5ce72b655d222200a04b03cd652509f3.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"orange_starIcon": {
+    "iconUrl": "/images/markers/orange_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_innIcon": {
+    "iconUrl": "/images/markers/flat_black_inn.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_shipIcon": {
+    "iconUrl": "/images/markers/orange_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_villageIcon": {
+    "iconUrl": "/images/markers/violet_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_waterfallIcon": {
+    "iconUrl": "/images/markers/black_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_plainIcon": {
+    "iconUrl": "/images/markers/yellow_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_swordIcon": {
+    "iconUrl": "/images/markers/flat_black_sword.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_architectIcon": {
+    "iconUrl": "/images/markers/flat_white_architect.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_factoryIcon": {
+    "iconUrl": "/images/markers/red_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_seaIcon": {
+    "iconUrl": "/images/markers/red_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_gearIcon": {
+    "iconUrl": "/images/markers/flat_black_gear.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_volcanoIcon": {
+    "iconUrl": "/images/markers/red_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_swampIcon": {
+    "iconUrl": "/images/markers/black_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Animal_Icon": {
+    "iconUrl": "/uploads/images/d4944777af8ea252268a007717d3a8e5.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"green_nuclearIcon": {
+    "iconUrl": "/images/markers/green_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_heartIcon": {
+    "iconUrl": "/images/markers/flat_white_heart.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_farmIcon": {
+    "iconUrl": "/images/markers/grey_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_hillsIcon": {
+    "iconUrl": "/images/markers/blue_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"ExilesCapital_Icon": {
+    "iconUrl": "/uploads/images/0f2571fe6487ae992f785ec208b64574.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"grey_towerIcon": {
+    "iconUrl": "/images/markers/grey_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_ruin2Icon": {
+    "iconUrl": "/images/markers/flat_black_ruin2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_fisherIcon": {
+    "iconUrl": "/images/markers/flat_black_fisher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/violet_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Serpentmen_Icon": {
+    "iconUrl": "/uploads/images/fb0577ef34ec0058a9aed8e640549193.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"WorldBoss_Icon": {
+    "iconUrl": "/uploads/images/66a2758dcecabc2e63490db56e33f49a.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"grey_moonIcon": {
+    "iconUrl": "/images/markers/grey_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_siegeIcon": {
+    "iconUrl": "/images/markers/flat_black_siege.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_barberIcon": {
+    "iconUrl": "/images/markers/flat_white_barber.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_coinsIcon": {
+    "iconUrl": "/images/markers/flat_white_coins.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_number_7Icon": {
+    "iconUrl": "/images/markers/flat_black_number_7.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_planetIcon": {
+    "iconUrl": "/images/markers/grey_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_farmIcon": {
+    "iconUrl": "/images/markers/flat_black_farm.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"violet_tavernIcon": {
+    "iconUrl": "/images/markers/violet_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_starIcon": {
+    "iconUrl": "/images/markers/yellow_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_camp1Icon": {
+    "iconUrl": "/images/markers/flat_white_camp1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_stableIcon": {
+    "iconUrl": "/images/markers/grey_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_standardIcon": {
+    "iconUrl": "/images/markers/orange_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"Ymir_Icon": {
+    "iconUrl": "/uploads/images/644b79666238f83bdb395bf361573336.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_masonIcon": {
+    "iconUrl": "/images/markers/flat_white_mason.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_pikeIcon": {
+    "iconUrl": "/images/markers/flat_white_pike.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_fisherIcon": {
+    "iconUrl": "/images/markers/flat_white_fisher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_alchemistIcon": {
+    "iconUrl": "/images/markers/flat_white_alchemist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_hillsIcon": {
+    "iconUrl": "/images/markers/green_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_fuelIcon": {
+    "iconUrl": "/images/markers/violet_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_spearIcon": {
+    "iconUrl": "/images/markers/flat_white_spear.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_saddlerIcon": {
+    "iconUrl": "/images/markers/flat_black_saddler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_triangleIcon": {
+    "iconUrl": "/images/markers/black_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_camp1Icon": {
+    "iconUrl": "/images/markers/flat_black_camp1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_castleIcon": {
+    "iconUrl": "/images/markers/flat_black_castle.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"green_circleIcon": {
+    "iconUrl": "/images/markers/green_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_bookIcon": {
+    "iconUrl": "/images/markers/flat_white_book.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_forestIcon": {
+    "iconUrl": "/images/markers/orange_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_sunstarIcon": {
+    "iconUrl": "/images/markers/grey_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_farmIcon": {
+    "iconUrl": "/images/markers/red_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_1Icon": {
+    "iconUrl": "/images/markers/flat_white_number_1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Merchant_Icon": {
+    "iconUrl": "/uploads/images/fdab3aa79f8b9bce5b2e2732c347906e.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"grey_riverIcon": {
+    "iconUrl": "/images/markers/grey_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_heartIcon": {
+    "iconUrl": "/images/markers/flat_black_heart.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_churchIcon": {
+    "iconUrl": "/images/markers/red_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Dungeon_Icon": {
+    "iconUrl": "/uploads/images/0fd4dac54fbb43e87493043dd40034b0.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_crossbowIcon": {
+    "iconUrl": "/images/markers/flat_white_crossbow.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_capitolIcon": {
+    "iconUrl": "/images/markers/grey_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_standardIcon": {
+    "iconUrl": "/images/markers/black_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"Lemurian_Icon": {
+    "iconUrl": "/uploads/images/1f399fc951e96592cd207cb9bd6be408.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_shipwrightIcon": {
+    "iconUrl": "/images/markers/flat_black_shipwright.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_number_8Icon": {
+    "iconUrl": "/images/markers/flat_white_number_8.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_speech_questionmarkIcon": {
+    "iconUrl": "/images/markers/flat_white_speech_questionmark.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_riverIcon": {
+    "iconUrl": "/images/markers/red_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_forestIcon": {
+    "iconUrl": "/images/markers/blue_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_masonIcon": {
+    "iconUrl": "/images/markers/flat_black_mason.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_planetIcon": {
+    "iconUrl": "/images/markers/black_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_flagstandardIcon": {
+    "iconUrl": "/images/markers/flat_white_flagstandard.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_hillsIcon": {
+    "iconUrl": "/images/markers/yellow_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_flag2Icon": {
+    "iconUrl": "/images/markers/flat_white_flag2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_swampIcon": {
+    "iconUrl": "/images/markers/yellow_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_dangerIcon": {
+    "iconUrl": "/images/markers/green_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_wingIcon": {
+    "iconUrl": "/images/markers/flat_black_wing.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_planetringIcon": {
+    "iconUrl": "/images/markers/grey_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_axeIcon": {
+    "iconUrl": "/images/markers/flat_black_axe.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_cityIcon": {
+    "iconUrl": "/images/markers/orange_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_treasureIcon": {
+    "iconUrl": "/images/markers/flat_white_treasure.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_farmIcon": {
+    "iconUrl": "/images/markers/orange_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_cityIcon": {
+    "iconUrl": "/images/markers/blue_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_systemIcon": {
+    "iconUrl": "/images/markers/yellow_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"BlackHand_Icon": {
+    "iconUrl": "/uploads/images/74e556779924d56414f3ab1a249fad54.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_cafeIcon": {
+    "iconUrl": "/images/markers/flat_black_cafe.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_tavernIcon": {
+    "iconUrl": "/images/markers/red_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_shipIcon": {
+    "iconUrl": "/images/markers/violet_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_panelIcon": {
+    "iconUrl": "/images/markers/grey_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_castleIcon": {
+    "iconUrl": "/images/markers/red_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_systemIcon": {
+    "iconUrl": "/images/markers/orange_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_campIcon": {
+    "iconUrl": "/images/markers/red_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_butcherIcon": {
+    "iconUrl": "/images/markers/flat_white_butcher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_mountainsIcon": {
+    "iconUrl": "/images/markers/black_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_towerIcon": {
+    "iconUrl": "/images/markers/orange_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_factoryIcon": {
+    "iconUrl": "/images/markers/violet_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_cityIcon": {
+    "iconUrl": "/images/markers/grey_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"FrostGiant_Icon": {
+    "iconUrl": "/uploads/images/b2862eb9b98e7639e3d7a6c443ac1cff.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_riverIcon": {
+    "iconUrl": "/images/markers/black_river.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_secret_questionIcon": {
+    "iconUrl": "/images/markers/flat_black_secret_question.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Ruins_Icon": {
+    "iconUrl": "/uploads/images/86e37b324208a4c5f81570f889dec1db.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"violet_dangerIcon": {
+    "iconUrl": "/images/markers/violet_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_swampIcon": {
+    "iconUrl": "/images/markers/blue_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_dyerIcon": {
+    "iconUrl": "/images/markers/flat_white_dyer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_triangleIcon": {
+    "iconUrl": "/images/markers/blue_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_bookIcon": {
+    "iconUrl": "/images/markers/flat_black_book.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_farmIcon": {
+    "iconUrl": "/images/markers/black_farm.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_dangerIcon": {
+    "iconUrl": "/images/markers/blue_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Unknown_Icon": {
+    "iconUrl": "/uploads/images/6ca6c158030dd53cdb5dcd2ea4bd7fb7.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_nuclearIcon": {
+    "iconUrl": "/images/markers/black_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_waterfallIcon": {
+    "iconUrl": "/images/markers/blue_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_tavernIcon": {
+    "iconUrl": "/images/markers/green_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_systemIcon": {
+    "iconUrl": "/images/markers/blue_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_number_6Icon": {
+    "iconUrl": "/images/markers/flat_white_number_6.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"RelicHuntersCapital_Icon": {
+    "iconUrl": "/uploads/images/209d350c62b5679ab2bbc1ea101c3993.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"blue_towerIcon": {
+    "iconUrl": "/images/markers/blue_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_questionmarkIcon": {
+    "iconUrl": "/images/markers/yellow_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_fuelIcon": {
+    "iconUrl": "/images/markers/black_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_trapIcon": {
+    "iconUrl": "/images/markers/flat_white_trap.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_ruin1Icon": {
+    "iconUrl": "/images/markers/flat_white_ruin1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"Dialog_Icon": {
+    "iconUrl": "/uploads/images/01288d32969eb837bebf94a9bf207c57.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_planetIcon": {
+    "iconUrl": "/images/markers/red_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_triangleIcon": {
+    "iconUrl": "/images/markers/green_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_theaterIcon": {
+    "iconUrl": "/images/markers/flat_black_theater.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_planetringIcon": {
+    "iconUrl": "/images/markers/black_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_jewelerIcon": {
+    "iconUrl": "/images/markers/flat_black_jeweler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_churchIcon": {
+    "iconUrl": "/images/markers/blue_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_desertIcon": {
+    "iconUrl": "/images/markers/violet_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_planetringIcon": {
+    "iconUrl": "/images/markers/green_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_shipIcon": {
+    "iconUrl": "/images/markers/yellow_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_candyIcon": {
+    "iconUrl": "/images/markers/flat_black_candy.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_auditoriumIcon": {
+    "iconUrl": "/images/markers/flat_white_auditorium.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_fuelIcon": {
+    "iconUrl": "/images/markers/orange_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_capitolIcon": {
+    "iconUrl": "/images/markers/green_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_asteroidIcon": {
+    "iconUrl": "/images/markers/black_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_dyerIcon": {
+    "iconUrl": "/images/markers/flat_black_dyer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Generic1_Icon": {
+    "iconUrl": "/uploads/images/0f270acc3d6efd4b0ee33b58dce0d357.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_crossbowIcon": {
+    "iconUrl": "/images/markers/flat_black_crossbow.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_gearIcon": {
+    "iconUrl": "/images/markers/flat_white_gear.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"FrostGiantCapital_Icon": {
+    "iconUrl": "/uploads/images/652d8b1fa0294150cf685c6e9b4e262f.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_systemIcon": {
+    "iconUrl": "/images/markers/black_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_hillsIcon": {
+    "iconUrl": "/images/markers/red_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_bowIcon": {
+    "iconUrl": "/images/markers/flat_black_bow.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_number_0Icon": {
+    "iconUrl": "/images/markers/flat_white_number_0.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_starIcon": {
+    "iconUrl": "/images/markers/red_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_musicIcon": {
+    "iconUrl": "/images/markers/flat_white_music.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_cityIcon": {
+    "iconUrl": "/images/markers/violet_city.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_artIcon": {
+    "iconUrl": "/images/markers/flat_white_art.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_churchIcon": {
+    "iconUrl": "/images/markers/flat_white_church.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_white_armorsmithIcon": {
+    "iconUrl": "/images/markers/flat_white_armorsmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_asteroidIcon": {
+    "iconUrl": "/images/markers/blue_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_wheelwrightIcon": {
+    "iconUrl": "/images/markers/flat_black_wheelwright.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_nuclearIcon": {
+    "iconUrl": "/images/markers/violet_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_squareIcon": {
+    "iconUrl": "/images/markers/violet_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_standardIcon": {
+    "iconUrl": "/images/markers/blue_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"red_desertIcon": {
+    "iconUrl": "/images/markers/red_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_volcanoIcon": {
+    "iconUrl": "/images/markers/black_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_scientistIcon": {
+    "iconUrl": "/images/markers/flat_black_scientist.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_desertIcon": {
+    "iconUrl": "/images/markers/orange_desert.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_systemIcon": {
+    "iconUrl": "/images/markers/red_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_seaIcon": {
+    "iconUrl": "/images/markers/orange_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_dungeonIcon": {
+    "iconUrl": "/images/markers/red_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_volcanoIcon": {
+    "iconUrl": "/images/markers/violet_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_fuelIcon": {
+    "iconUrl": "/images/markers/grey_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_moonIcon": {
+    "iconUrl": "/images/markers/yellow_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_fuelIcon": {
+    "iconUrl": "/images/markers/green_fuel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_dungeonIcon": {
+    "iconUrl": "/images/markers/orange_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_capitolIcon": {
+    "iconUrl": "/images/markers/orange_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_dishIcon": {
+    "iconUrl": "/images/markers/blue_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_cannonIcon": {
+    "iconUrl": "/images/markers/flat_black_cannon.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_pikeIcon": {
+    "iconUrl": "/images/markers/flat_black_pike.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_stableIcon": {
+    "iconUrl": "/images/markers/red_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_questionmarkIcon": {
+    "iconUrl": "/images/markers/black_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/black_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_panelIcon": {
+    "iconUrl": "/images/markers/red_panel.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_coinsIcon": {
+    "iconUrl": "/images/markers/flat_black_coins.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_spyIcon": {
+    "iconUrl": "/images/markers/flat_white_spy.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_planetIcon": {
+    "iconUrl": "/images/markers/yellow_planet.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_hillsIcon": {
+    "iconUrl": "/images/markers/orange_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_villageIcon": {
+    "iconUrl": "/images/markers/blue_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_plainIcon": {
+    "iconUrl": "/images/markers/red_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_horseIcon": {
+    "iconUrl": "/images/markers/flat_white_horse.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"SettlementsCityBlackWorldAnvilIcon": {
+    "iconUrl": "/uploads/images/3bd7d9253f4c81c9470e3c7c2b29a9e8.png",
+    "iconSize": [28, 28],
+    "iconAnchor": [14, 14],
+    "popupAnchor": [-1, -10]
+},
+"green_castleIcon": {
+    "iconUrl": "/images/markers/green_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_villageIcon": {
+    "iconUrl": "/images/markers/flat_black_village.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_churchIcon": {
+    "iconUrl": "/images/markers/flat_black_church.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"flat_black_houseIcon": {
+    "iconUrl": "/images/markers/flat_black_house.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"grey_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/grey_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Profession_Icon": {
+    "iconUrl": "/uploads/images/3b1665a2970fff5522e31c9b055a67e9.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_wineryIcon": {
+    "iconUrl": "/images/markers/flat_black_winery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_tanneryIcon": {
+    "iconUrl": "/images/markers/flat_black_tannery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_militarygeneralIcon": {
+    "iconUrl": "/images/markers/flat_white_militarygeneral.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/green_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Derketo_Icon": {
+    "iconUrl": "/uploads/images/b26df50188124b472f72684931df27c2.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"special_transparentIcon": {
+    "iconUrl": "/images/markers/special_transparent.png",
+    "iconAnchor": [20, 20],
+    "popupAnchor": [1, -20]
+},
+"green_forestIcon": {
+    "iconUrl": "/images/markers/green_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_jollyrogerIcon": {
+    "iconUrl": "/images/markers/flat_white_jollyroger.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_dangerIcon": {
+    "iconUrl": "/images/markers/grey_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_nuclearIcon": {
+    "iconUrl": "/images/markers/red_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_wheelwrightIcon": {
+    "iconUrl": "/images/markers/flat_white_wheelwright.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_dishIcon": {
+    "iconUrl": "/images/markers/yellow_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_tavernIcon": {
+    "iconUrl": "/images/markers/flat_white_tavern.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_factoryIcon": {
+    "iconUrl": "/images/markers/blue_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_mineIcon": {
+    "iconUrl": "/images/markers/grey_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_5Icon": {
+    "iconUrl": "/images/markers/flat_black_number_5.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"DogsoftheDesert_Icon": {
+    "iconUrl": "/uploads/images/105aa3366e8b1e5676d1d1b45784842c.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_starIcon": {
+    "iconUrl": "/images/markers/black_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Tower_Icon": {
+    "iconUrl": "/uploads/images/b4c19f4753336c5e9a3fbe69bc5a0f9d.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_spearIcon": {
+    "iconUrl": "/images/markers/flat_black_spear.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_towerIcon": {
+    "iconUrl": "/images/markers/violet_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_guildIcon": {
+    "iconUrl": "/images/markers/flat_black_guild.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Bearer_Icon": {
+    "iconUrl": "/uploads/images/e5155bb34c8ccbcbf35bfd69dba89331.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_rogueIcon": {
+    "iconUrl": "/images/markers/flat_black_rogue.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"SettlementsCapitalBlackWorldAnvilIcon": {
+    "iconUrl": "/uploads/images/f89f46d261297534704fee1f5f4ec106.png",
+    "iconSize": [28, 28],
+    "iconAnchor": [14, 14],
+    "popupAnchor": [-1, -10]
+},
+"flat_white_perfumerIcon": {
+    "iconUrl": "/images/markers/flat_white_perfumer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_swords_crossedIcon": {
+    "iconUrl": "/images/markers/flat_black_swords_crossed.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_villageIcon": {
+    "iconUrl": "/images/markers/flat_white_village.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"black_squareIcon": {
+    "iconUrl": "/images/markers/black_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_number_0Icon": {
+    "iconUrl": "/images/markers/flat_black_number_0.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_housesIcon": {
+    "iconUrl": "/images/markers/flat_white_houses.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"Yog_Icon": {
+    "iconUrl": "/uploads/images/b449a0f2a1caaa06e2497b449a21d7c6.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"Archer_Icon": {
+    "iconUrl": "/uploads/images/0c2bab84bef9cbc0b40b219dd4b6e82d.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_quest_scrollIcon": {
+    "iconUrl": "/images/markers/flat_white_quest_scroll.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_squareIcon": {
+    "iconUrl": "/images/markers/blue_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Avatar_Icon": {
+    "iconUrl": "/uploads/images/2ef28e821db02f6ced7d8ec008ad8df9.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_white_flag3Icon": {
+    "iconUrl": "/images/markers/flat_white_flag3.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Cimmerian_Icon": {
+    "iconUrl": "/uploads/images/1a4481002d63aa42bf33ace996f9b1cb.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"green_waterfallIcon": {
+    "iconUrl": "/images/markers/green_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_forestIcon": {
+    "iconUrl": "/images/markers/grey_forest.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_questionmarkIcon": {
+    "iconUrl": "/images/markers/red_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_hatterIcon": {
+    "iconUrl": "/images/markers/flat_black_hatter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_castleIcon": {
+    "iconUrl": "/images/markers/violet_castle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_portIcon": {
+    "iconUrl": "/images/markers/blue_port.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Caravan_Icon": {
+    "iconUrl": "/uploads/images/0537f5a89d0194be90592194a324befb.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"orange_stableIcon": {
+    "iconUrl": "/images/markers/orange_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_churchIcon": {
+    "iconUrl": "/images/markers/green_church.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_plainIcon": {
+    "iconUrl": "/images/markers/blue_plain.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_ruinIcon": {
+    "iconUrl": "/images/markers/green_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_systemIcon": {
+    "iconUrl": "/images/markers/violet_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Exiles_Icon": {
+    "iconUrl": "/uploads/images/55746de942350cebfe6755c838e0c49a.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_circleIcon": {
+    "iconUrl": "/images/markers/black_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Performer_Icon": {
+    "iconUrl": "/uploads/images/25036d55fa4ff4d9d056659236111b01.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_boneIcon": {
+    "iconUrl": "/images/markers/flat_black_bone.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_squareIcon": {
+    "iconUrl": "/images/markers/yellow_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_squareIcon": {
+    "iconUrl": "/images/markers/orange_square.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_fletcherIcon": {
+    "iconUrl": "/images/markers/flat_white_fletcher.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_villageIcon": {
+    "iconUrl": "/images/markers/orange_village.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_triangleIcon": {
+    "iconUrl": "/images/markers/violet_triangle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_enchanterIcon": {
+    "iconUrl": "/images/markers/flat_black_enchanter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_dishIcon": {
+    "iconUrl": "/images/markers/green_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_waterfallIcon": {
+    "iconUrl": "/images/markers/yellow_waterfall.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_mineIcon": {
+    "iconUrl": "/images/markers/red_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_swampIcon": {
+    "iconUrl": "/images/markers/orange_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_cafeIcon": {
+    "iconUrl": "/images/markers/flat_white_cafe.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_ship_caravelIcon": {
+    "iconUrl": "/images/markers/flat_black_ship_caravel.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"BlackHandCapital_Icon": {
+    "iconUrl": "/uploads/images/7bfcdc67629421869ad0da7ab8fa59cc.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"red_planetringIcon": {
+    "iconUrl": "/images/markers/red_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_systemIcon": {
+    "iconUrl": "/images/markers/grey_system.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_cobblerIcon": {
+    "iconUrl": "/images/markers/flat_white_cobbler.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"black_campIcon": {
+    "iconUrl": "/images/markers/black_camp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_towerIcon": {
+    "iconUrl": "/images/markers/red_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_mine1Icon": {
+    "iconUrl": "/images/markers/flat_black_mine1.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"green_mineIcon": {
+    "iconUrl": "/images/markers/green_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_starIcon": {
+    "iconUrl": "/images/markers/violet_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_questionmarkIcon": {
+    "iconUrl": "/images/markers/grey_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_mineIcon": {
+    "iconUrl": "/images/markers/orange_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_asteroidIcon": {
+    "iconUrl": "/images/markers/red_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_grocerIcon": {
+    "iconUrl": "/images/markers/flat_black_grocer.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_stableIcon": {
+    "iconUrl": "/images/markers/flat_white_stable.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"black_towerIcon": {
+    "iconUrl": "/images/markers/black_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_breweryIcon": {
+    "iconUrl": "/images/markers/flat_white_brewery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_portIcon": {
+    "iconUrl": "/images/markers/flat_black_port.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"orange_tavernIcon": {
+    "iconUrl": "/images/markers/orange_tavern.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Base_Icon": {
+    "iconUrl": "/uploads/images/8e67e1d5fc63825b21e22f8d6b820325.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_horseIcon": {
+    "iconUrl": "/images/markers/flat_black_horse.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"green_moonIcon": {
+    "iconUrl": "/images/markers/green_moon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_mineIcon": {
+    "iconUrl": "/images/markers/blue_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_cannonIcon": {
+    "iconUrl": "/images/markers/flat_white_cannon.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Fighter_Icon": {
+    "iconUrl": "/uploads/images/f905aab35b6e73c453d159a4b0174a11.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"black_mineIcon": {
+    "iconUrl": "/images/markers/black_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_swampIcon": {
+    "iconUrl": "/images/markers/green_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_graveyardIcon": {
+    "iconUrl": "/images/markers/flat_white_graveyard.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"Cook_Icon": {
+    "iconUrl": "/uploads/images/8927e40d6fbabd5afa76b804ef26a8e2.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"grey_swampIcon": {
+    "iconUrl": "/images/markers/grey_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_siegeIcon": {
+    "iconUrl": "/images/markers/flat_white_siege.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_swampIcon": {
+    "iconUrl": "/images/markers/red_swamp.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_hillsIcon": {
+    "iconUrl": "/images/markers/black_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_ruinIcon": {
+    "iconUrl": "/images/markers/orange_ruin.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_toymakerIcon": {
+    "iconUrl": "/images/markers/flat_white_toymaker.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_secret_questionIcon": {
+    "iconUrl": "/images/markers/flat_white_secret_question.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"red_standardIcon": {
+    "iconUrl": "/images/markers/red_standard.png",
+    "iconSize": [25, 41],
+    "iconAnchor": [12, 41],
+    "shadowUrl": "/images/markers/special_shadow_old.png",
+    "shadowSize": [41, 41],
+    "popupAnchor": [1, -34]
+},
+"grey_dungeonIcon": {
+    "iconUrl": "/images/markers/grey_dungeon.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_boneIcon": {
+    "iconUrl": "/images/markers/flat_white_bone.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_militarygeneralIcon": {
+    "iconUrl": "/images/markers/flat_black_militarygeneral.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"blue_exclamationmarkIcon": {
+    "iconUrl": "/images/markers/blue_exclamationmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"RelicHunters_Icon": {
+    "iconUrl": "/uploads/images/46bb3f631faffb53428d2066db3671ba.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_number_4Icon": {
+    "iconUrl": "/images/markers/flat_black_number_4.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_theaterIcon": {
+    "iconUrl": "/images/markers/flat_white_theater.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_starIcon": {
+    "iconUrl": "/images/markers/grey_star.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_shipIcon": {
+    "iconUrl": "/images/markers/green_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"orange_planetringIcon": {
+    "iconUrl": "/images/markers/orange_planetring.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_hatterIcon": {
+    "iconUrl": "/images/markers/flat_white_hatter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"DarfariCapital_Icon": {
+    "iconUrl": "/uploads/images/724679bbb3130618e94bfb0bbdbbee02.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"yellow_factoryIcon": {
+    "iconUrl": "/images/markers/yellow_factory.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"grey_asteroidIcon": {
+    "iconUrl": "/images/markers/grey_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_asteroidIcon": {
+    "iconUrl": "/images/markers/yellow_asteroid.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_dangerIcon": {
+    "iconUrl": "/images/markers/yellow_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_circleIcon": {
+    "iconUrl": "/images/markers/yellow_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_pirateIcon": {
+    "iconUrl": "/images/markers/flat_black_pirate.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"orange_circleIcon": {
+    "iconUrl": "/images/markers/orange_circle.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"SettlementsVillageBlackWorldAnvilIcon": {
+    "iconUrl": "/uploads/images/4ed67188f66c332d4388116338b617bf.png",
+    "iconSize": [28, 28],
+    "iconAnchor": [14, 14],
+    "popupAnchor": [-1, -10]
+},
+"black_dangerIcon": {
+    "iconUrl": "/images/markers/black_danger.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_haberdasheryIcon": {
+    "iconUrl": "/images/markers/flat_white_haberdashery.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"yellow_capitolIcon": {
+    "iconUrl": "/images/markers/yellow_capitol.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Purge_Icon": {
+    "iconUrl": "/uploads/images/89e3a53b2ce3eb4154560612e6666ab6.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"flat_black_camp2Icon": {
+    "iconUrl": "/images/markers/flat_black_camp2.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "popupAnchor": [1, -40]
+},
+"green_stableIcon": {
+    "iconUrl": "/images/markers/green_stable.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"violet_hillsIcon": {
+    "iconUrl": "/images/markers/violet_hills.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_white_blacksmithIcon": {
+    "iconUrl": "/images/markers/flat_white_blacksmith.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_white_enchanterIcon": {
+    "iconUrl": "/images/markers/flat_white_enchanter.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"flat_black_flagIcon": {
+    "iconUrl": "/images/markers/flat_black_flag.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"violet_mountainsIcon": {
+    "iconUrl": "/images/markers/violet_mountains.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_towerIcon": {
+    "iconUrl": "/images/markers/yellow_tower.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_sunstarIcon": {
+    "iconUrl": "/images/markers/yellow_sunstar.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"green_questionmarkIcon": {
+    "iconUrl": "/images/markers/green_questionmark.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"flat_black_heartbeatIcon": {
+    "iconUrl": "/images/markers/flat_black_heartbeat.png",
+    "iconSize": [40, 40],
+    "iconAnchor": [20, 40],
+    "shadowUrl": "/images/markers/pin_shadow.png",
+    "popupAnchor": [1, -40]
+},
+"grey_dishIcon": {
+    "iconUrl": "/images/markers/grey_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"Taskmaster_Icon": {
+    "iconUrl": "/uploads/images/7142898a2158276308a50d9b1382c6c9.png",
+    "iconSize": [32, 32],
+    "popupAnchor": [-1, -1]
+},
+"orange_volcanoIcon": {
+    "iconUrl": "/images/markers/orange_volcano.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_seaIcon": {
+    "iconUrl": "/images/markers/black_sea.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"red_dishIcon": {
+    "iconUrl": "/images/markers/red_dish.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"blue_nuclearIcon": {
+    "iconUrl": "/images/markers/blue_nuclear.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"black_shipIcon": {
+    "iconUrl": "/images/markers/black_ship.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+},
+"yellow_mineIcon": {
+    "iconUrl": "/images/markers/yellow_mine.png",
+    "iconSize": [35, 60],
+    "iconAnchor": [17, 60],
+    "shadowUrl": "/images/markers/special_shadow.png",
+    "shadowSize": [82, 60],
+    "popupAnchor": [1, -50]
+}
+}

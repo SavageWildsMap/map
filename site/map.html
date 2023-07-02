@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Savage Wilds Map 2.0</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap">
+    <link rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+          integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+          crossorigin="">
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+            integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+            crossorigin=""></script>
+
+    <style>
+        a {
+            color: inherit;
+            text-decoration: underline;
+        }
+        #header {
+            position: absolute;
+            margin: 0 auto;
+            top: 0;
+            z-index: 10000;
+            text-align: center;
+            left: 50%;
+            transform: translate(-50%,0);
+            border: 1px solid black;
+            width: auto;
+            font-size:1.2em;
+            font-family: Cinzel, serif;
+            font-weight: 700;
+            padding: 5px;
+            color: white;
+            background-color: darkred;
+        }
+        #map { height: 100vh; }
+        .popup h5
+        {
+            font-family: Cinzel, serif;
+            margin-bottom: 0;
+            font-weight: 700;
+            text-transform: uppercase;
+            white-space: nowrap;
+            font-size: 1.25em;
+        }
+        .popup div
+        {
+            margin-top: 5px;
+            font-family: 'Noto Sans', serif;
+            margin-bottom: 0;
+            font-weight: 400;
+            text-transform: none;
+        }
+        .popup img
+        {
+            margin-top: 5px;
+            max-width: 450px !important;
+            max-height: 400px !important;
+        }
+        /* Force the leaflet popup to have an auto width for embedded images */
+        .leaflet-popup-content {
+            width:auto !important;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="header">
+        <a href="https://www.savagewilds.com/">Savage Wilds</a> Interactive Map
+    </div>
+    <div id="map"></div>
+</body>
+<script>
+    const MAP_FILENAME = 'images/sw_map.png';
+    const MAP_SIZE = [2447, 2209]
+    const MARKERS_FILENAME = 'data/markers.json';
+    const ICONS_FILENAME = 'data/icons.json';
+
+    (async function main() {
+        // Load data
+        const [icons_data, markers_data] = await Promise.all([
+            fetch(ICONS_FILENAME).then((response) => response.json()),
+            fetch(MARKERS_FILENAME).then((response) => response.json())
+        ]);
+
+        // Make the map
+        const main_layer = L.imageOverlay(MAP_FILENAME, [[0,0], MAP_SIZE]);
+        const map = L.map('map', {
+            crs: L.CRS.Simple,
+            center: [MAP_SIZE[0]/2, MAP_SIZE[1]/2],
+            zoom: -1,
+            zoomSnap: 0.5,
+            //zoomDelta: 0.10,
+            minZoom: -1,
+            maxZoom: 2,
+            noWrap: true,
+            dragging: true,
+            tap: false,
+            attributionControl: true,
+            layers: [ main_layer ]
+        });
+        map.attributionControl.addAttribution('Visit <a href="https://discord.gg/pcSf4PvVNs">Savage Wilds Discord Server</a> to contribute!');
+        map.attributionControl.setPrefix('');
+        // Create custom icons first
+        const icons = {};
+        for (const [key, icon_data] of Object.entries(icons_data)) {
+            icons[key] = L.icon({
+                iconUrl: 'images/' + icon_data['file'],
+                iconSize: icon_data['icon_size'],
+                popupAnchor: icon_data['popup_anchor']
+            });
+        }
+
+        // Then create all of the markers and sort them into layering groups
+        let markergroups = {};
+        for (const marker_data of markers_data) {
+            const grp = markergroups[marker_data.layer] = markergroups[marker_data.layer] || L.layerGroup();
+            const marker = L.marker(marker_data.pos,
+                {
+                    title: marker_data.name,
+                    opacity: 0.9
+                }
+            );
+            if (marker_data.icon !== "default") {
+                marker.setIcon(icons[marker_data.icon])
+            }
+            marker.addTo(grp);
+            // Add popup
+            let popuphtml = `<div class="popup"><h5>${marker_data.name}</h5><div>${marker_data.description}</div>`;
+            if (marker_data.image) {
+                const clean_title = marker_data.image.split('.').slice(0, -1).join(' ');  // rsplit
+                popuphtml += `<img src="images/usercontent/${marker_data.image}" alt="${clean_title}" title="${clean_title}"/>`;
+            }
+            popuphtml += `</div>`;
+            marker.bindPopup(popuphtml, {maxWidth: 450}).openPopup();
+        }
+        // add layers to map
+        markergroups.base.addTo(map);
+        delete markergroups.base;
+        L.control.layers({"Savage Wilds": main_layer}, markergroups).addTo(map);
+    })();
+</script>
+</html>

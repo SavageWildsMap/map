@@ -1,0 +1,137 @@
+{
+    "Caravan_Icon": {
+        "file": "caravan.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Vista_Icon": {
+        "file": "vista.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Cimmerian_Icon": {
+        "file": "cimmerian.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "DogsoftheDesert_Icon": {
+        "file": "dogsofthedesert.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "BlackHand_Icon": {
+        "file": "blackhand.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Cave_Icon": {
+        "file": "cave.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "LemurianCapital_Icon": {
+        "file": "lemuriancapital.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Ruins_Icon": {
+        "file": "ruins.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Vanir_Icon": {
+        "file": "vanir.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "SummonedAvatar_Icon": {
+        "file": "summonedavatar.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Plant_Icon": {
+        "file": "plant.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Darfari_Icon": {
+        "file": "darfari.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Ymir_Icon": {
+        "file": "ymir.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "FrostGiant_Icon": {
+        "file": "frostgiant.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Tower_Icon": {
+        "file": "tower.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Danger_Icon": {
+        "file": "danger.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Animal_Icon": {
+        "file": "animal.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "CimmerianCapital_Icon": {
+        "file": "cimmeriancapital.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "VanirCapital_Icon": {
+        "file": "vanircapital.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Camp_Icon": {
+        "file": "camp.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "JhebbalSag_Icon": {
+        "file": "jhebbalsag.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "RelicHuntersCapital_Icon": {
+        "file": "relichunterscapital.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "RelicHunters_Icon": {
+        "file": "relichunters.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "DarfariCapital_Icon": {
+        "file": "darfaricapital.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Generic3_Icon": {
+        "file": "generic3.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Lemurian_Icon": {
+        "file": "lemurian.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    },
+    "Dungeon_Icon": {
+        "file": "dungeon.png",
+        "icon_size": [32,32],
+        "popup_anchor": [-1,-1]
+    }
+}

@@ -1,0 +1,5614 @@
+[
+    {
+        "name": "Wolfrun",
+        "layer": "base",
+        "icon": "Caravan_Icon",
+        "pos": [
+            1729,
+            460
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Wild Plateau",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1347,
+            1721
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Meadow",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1054,
+            1502
+        ],
+        "description": ""
+    },
+    {
+        "name": "Redwood Outpost",
+        "layer": "base",
+        "icon": "Cimmerian_Icon",
+        "pos": [
+            1452,
+            1721
+        ],
+        "description": ""
+    },
+    {
+        "name": "Old Trade Docks",
+        "layer": "base",
+        "icon": "Caravan_Icon",
+        "pos": [
+            1280,
+            1294
+        ],
+        "description": ""
+    },
+    {
+        "name": "Tiger Trapper Outpost",
+        "layer": "base",
+        "icon": "DogsoftheDesert_Icon",
+        "pos": [
+            783,
+            1304
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ironpass Post",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            904,
+            747
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Proving Grounds",
+        "layer": "base",
+        "icon": "Cimmerian_Icon",
+        "pos": [
+            1121,
+            1548
+        ],
+        "description": ""
+    },
+    {
+        "name": "Grey Ape Grotto",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1154,
+            1418
+        ],
+        "description": ""
+    },
+    {
+        "name": "Widow&#039;s Passage",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            604,
+            1565
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Screaming Haunt",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2358,
+            689
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Last Bastion",
+        "layer": "base",
+        "icon": "LemurianCapital_Icon",
+        "pos": [
+            683,
+            1616
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crawlskin Cavern",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1359,
+            733
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Hunter&#039;s Cabin",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1636,
+            826
+        ],
+        "description": ""
+    },
+    {
+        "name": "Pit of Salvation",
+        "layer": "base",
+        "icon": "SummonedAvatar_Icon",
+        "pos": [
+            2083,
+            1052
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cracked Fjords",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2160,
+            1301
+        ],
+        "description": ""
+    },
+    {
+        "name": "Snowhenge",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1729,
+            915
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hall of Crows",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            534,
+            1180
+        ],
+        "description": ""
+    },
+    {
+        "name": "Valor&#039;s Fall",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2237,
+            1425
+        ],
+        "description": ""
+    },
+    {
+        "name": "Glowing Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1233,
+            1662
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crystal Cave",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1193,
+            1019
+        ],
+        "description": ""
+    },
+    {
+        "name": "Old Mines",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1655,
+            409
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cadwallon",
+        "layer": "base",
+        "icon": "Cimmerian_Icon",
+        "pos": [
+            1575,
+            1499
+        ],
+        "description": ""
+    },
+    {
+        "name": "Western Pass",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1307,
+            465
+        ],
+        "description": ""
+    },
+    {
+        "name": "Widow&#039;s Passage",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            595,
+            1628
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cave of the Crone",
+        "layer": "base",
+        "icon": "Plant_Icon",
+        "pos": [
+            681,
+            1339
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Pit",
+        "layer": "base",
+        "icon": "Darfari_Icon",
+        "pos": [
+            730,
+            1068
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hoarfrost Vigil",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2212,
+            495
+        ],
+        "description": ""
+    },
+    {
+        "name": "High Fall",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            907,
+            1665
+        ],
+        "description": ""
+    },
+    {
+        "name": "Skulltaker&#039;s Outpost",
+        "layer": "base",
+        "icon": "FrostGiant_Icon",
+        "pos": [
+            1986,
+            1448
+        ],
+        "description": ""
+    },
+    {
+        "name": "Redwood Hamlet",
+        "layer": "base",
+        "icon": "Cimmerian_Icon",
+        "pos": [
+            1307,
+            1725
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Wellspring",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            862,
+            1432
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Frozen Gates",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            1780,
+            689
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frozen Battleground",
+        "layer": "base",
+        "icon": "Danger_Icon",
+        "pos": [
+            2090,
+            807
+        ],
+        "description": ""
+    },
+    {
+        "name": "Corpse-Eater&#039;s Outpost",
+        "layer": "base",
+        "icon": "Darfari_Icon",
+        "pos": [
+            1729,
+            1304
+        ],
+        "description": ""
+    },
+    {
+        "name": "Murun Outskirts",
+        "layer": "base",
+        "icon": "Caravan_Icon",
+        "pos": [
+            890,
+            1033
+        ],
+        "description": ""
+    },
+    {
+        "name": "Last Words Cavern",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            1054,
+            502
+        ],
+        "description": ""
+    },
+    {
+        "name": "Patchsail Retreat",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            835,
+            1203
+        ],
+        "description": ""
+    },
+    {
+        "name": "Maelgwyn&#039;s Pass",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1492,
+            1756
+        ],
+        "description": ""
+    },
+    {
+        "name": "Gates of the White Hand",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2086,
+            982
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crashed Landing",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1699,
+            1595
+        ],
+        "description": ""
+    },
+    {
+        "name": "Plains of the Stampede",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            925,
+            1215
+        ],
+        "description": ""
+    },
+    {
+        "name": "Stomping Grounds",
+        "layer": "base",
+        "icon": "Animal_Icon",
+        "pos": [
+            1864,
+            1376
+        ],
+        "description": ""
+    },
+    {
+        "name": "Icewind Plateau",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1813,
+            1210
+        ],
+        "description": ""
+    },
+    {
+        "name": "Stones of Louhi",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2251,
+            672
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Sunken Fleet",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2170,
+            1739
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ragnar&#039;s Folly",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2274,
+            1031
+        ],
+        "description": ""
+    },
+    {
+        "name": "Maelgwyn&#039;s Glen",
+        "layer": "base",
+        "icon": "CimmerianCapital_Icon",
+        "pos": [
+            1482,
+            1630
+        ],
+        "description": ""
+    },
+    {
+        "name": "Roof of the World",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1925,
+            905
+        ],
+        "description": ""
+    },
+    {
+        "name": "Isvakt Outpost",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1713,
+            539
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Atlantean Tomb",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            758,
+            777
+        ],
+        "description": ""
+    },
+    {
+        "name": "Outpost Ruins",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            848,
+            1378
+        ],
+        "description": ""
+    },
+    {
+        "name": "Old Overlook",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1725,
+            1343
+        ],
+        "description": ""
+    },
+    {
+        "name": "Old Smuggler&#039;s Way",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1930,
+            621
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Haven",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1335,
+            1616
+        ],
+        "description": ""
+    },
+    {
+        "name": "Fuming Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2342,
+            998
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hyperborean Staging Post",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1741,
+            1075
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Ribcage",
+        "layer": "base",
+        "icon": "FrostGiant_Icon",
+        "pos": [
+            2058,
+            1593
+        ],
+        "description": ""
+    },
+    {
+        "name": "Vargrvakt Outpost",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1638,
+            595
+        ],
+        "description": ""
+    },
+    {
+        "name": "Windhelm",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            967,
+            1478
+        ],
+        "description": ""
+    },
+    {
+        "name": "Scorching Flats",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            772,
+            765
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frostscar Ravine",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2083,
+            1527
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Ridge Outpost",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1713,
+            707
+        ],
+        "description": ""
+    },
+    {
+        "name": "Imi&#039;s Embrace",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1431,
+            758
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hollow Glacier",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2288,
+            1863
+        ],
+        "description": ""
+    },
+    {
+        "name": "Snowhearth",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            2011,
+            677
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Skull Gate",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            1778,
+            1164
+        ],
+        "description": ""
+    },
+    {
+        "name": "Skull Ridge",
+        "layer": "base",
+        "icon": "Darfari_Icon",
+        "pos": [
+            702,
+            894
+        ],
+        "description": ""
+    },
+    {
+        "name": "Drakr",
+        "layer": "base",
+        "icon": "Animal_Icon",
+        "pos": [
+            1993,
+            1355
+        ],
+        "description": ""
+    },
+    {
+        "name": "Outpost",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2006,
+            977
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cave of the Last Tribe",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1301,
+            1695
+        ],
+        "description": ""
+    },
+    {
+        "name": "Vargrheim",
+        "layer": "base",
+        "icon": "VanirCapital_Icon",
+        "pos": [
+            1431,
+            1285
+        ],
+        "description": ""
+    },
+    {
+        "name": "Skullgate Outpost",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1757,
+            1227
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ellwyn&#039;s Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1326,
+            1474
+        ],
+        "description": ""
+    },
+    {
+        "name": "Khulan&#039;s Outpost",
+        "layer": "base",
+        "icon": "Camp_Icon",
+        "pos": [
+            1384,
+            509
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Sunken Arena",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1333,
+            1141
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ruined Abode",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            2249,
+            880
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Mother Tree",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            636,
+            1492
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Grove",
+        "layer": "base",
+        "icon": "JhebbalSag_Icon",
+        "pos": [
+            1382,
+            838
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rhydwen&#039;s Retreat",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1133,
+            1297
+        ],
+        "description": ""
+    },
+    {
+        "name": "Obsidian Mines",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1121,
+            1064
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mori",
+        "layer": "base",
+        "icon": "Camp_Icon",
+        "pos": [
+            1478,
+            546
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Crater",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1652,
+            721
+        ],
+        "description": ""
+    },
+    {
+        "name": "Beneath the Waves",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            879,
+            551
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cabhan Fell",
+        "layer": "base",
+        "icon": "Cimmerian_Icon",
+        "pos": [
+            1203,
+            1481
+        ],
+        "description": ""
+    },
+    {
+        "name": "Citadel of the White Hand",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            2123,
+            1003
+        ],
+        "description": ""
+    },
+    {
+        "name": "Dreamer&#039;s Pool",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            548,
+            1539
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shattered Plateau",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2279,
+            1115
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Maw",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1266,
+            1073
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ymir&#039;s Breath",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1850,
+            868
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frosthollow",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2286,
+            959
+        ],
+        "description": ""
+    },
+    {
+        "name": "Blacksail Guard",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            932,
+            705
+        ],
+        "description": ""
+    },
+    {
+        "name": "Verglass Grotto",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2256,
+            1460
+        ],
+        "description": ""
+    },
+    {
+        "name": "Silverdig Cave",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2246,
+            798
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Baths",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1909,
+            1283
+        ],
+        "description": ""
+    },
+    {
+        "name": "Watchtower",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1480,
+            1113
+        ],
+        "description": ""
+    },
+    {
+        "name": "Glacial Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1780,
+            1513
+        ],
+        "description": ""
+    },
+    {
+        "name": "Murun",
+        "layer": "base",
+        "icon": "RelicHuntersCapital_Icon",
+        "pos": [
+            916,
+            1038
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ymir&#039;s Blade",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1701,
+            1558
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shensha&#039;s Outpost",
+        "layer": "base",
+        "icon": "Camp_Icon",
+        "pos": [
+            1030,
+            1208
+        ],
+        "description": ""
+    },
+    {
+        "name": "Broken Pass",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1298,
+            1364
+        ],
+        "description": ""
+    },
+    {
+        "name": "Vestfold",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1568,
+            947
+        ],
+        "description": ""
+    },
+    {
+        "name": "Springwater",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1620,
+            488
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ruins of Shekh-Hah",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            734,
+            691
+        ],
+        "description": "Jhebbal Sag Priests"
+    },
+    {
+        "name": "Last Refuge",
+        "layer": "base",
+        "icon": "CimmerianCapital_Icon",
+        "pos": [
+            2393,
+            847
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ruins of Xun&#039;Sha",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            846,
+            1674
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Needle",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1147,
+            798
+        ],
+        "description": ""
+    },
+    {
+        "name": "Abandoned Docks",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            613,
+            717
+        ],
+        "description": ""
+    },
+    {
+        "name": "Abandoned Docks",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1694,
+            1096
+        ],
+        "description": ""
+    },
+    {
+        "name": "Raided Village",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1396,
+            765
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rimfrost Grotto",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1760,
+            849
+        ],
+        "description": ""
+    },
+    {
+        "name": "Old Pict Cave",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2104,
+            1180
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mad Hermits Cottage",
+        "layer": "base",
+        "icon": "Vanir_Icon",
+        "pos": [
+            1801,
+            1476
+        ],
+        "description": ""
+    },
+    {
+        "name": "Yakira&#039;s Tear",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            779,
+            1597
+        ],
+        "description": ""
+    },
+    {
+        "name": "South Beach",
+        "layer": "base",
+        "icon": "Caravan_Icon",
+        "pos": [
+            599,
+            852
+        ],
+        "description": "",
+        "image": "South_Beach_Caravan.png"
+    },
+    {
+        "name": "Bonerattler Post",
+        "layer": "base",
+        "icon": "Darfari_Icon",
+        "pos": [
+            904,
+            1110
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Queen&#039;s Tomb",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            1109,
+            873
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Mire",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1207,
+            572
+        ],
+        "description": ""
+    },
+    {
+        "name": "Saoirse&#039;s Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1389,
+            1674
+        ],
+        "description": ""
+    },
+    {
+        "name": "Murun Gates",
+        "layer": "base",
+        "icon": "RelicHunters_Icon",
+        "pos": [
+            904,
+            991
+        ],
+        "description": ""
+    },
+    {
+        "name": "Throne of the Witch",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1708,
+            1453
+        ],
+        "description": ""
+    },
+    {
+        "name": "Red Rock Outpost",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            895,
+            814
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant&#039;s Pathway",
+        "layer": "base",
+        "icon": "Tower_Icon",
+        "pos": [
+            2046,
+            1304
+        ],
+        "description": ""
+    },
+    {
+        "name": "Yog&#039;s Feast",
+        "layer": "base",
+        "icon": "DarfariCapital_Icon",
+        "pos": [
+            646,
+            668
+        ],
+        "description": ""
+    },
+    {
+        "name": "Murun Garrison",
+        "layer": "base",
+        "icon": "RelicHunters_Icon",
+        "pos": [
+            888,
+            956
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sabretooth Pass",
+        "layer": "base",
+        "icon": "Animal_Icon",
+        "pos": [
+            1941,
+            553
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Cistern",
+        "layer": "base",
+        "icon": "Generic3_Icon",
+        "pos": [
+            1100,
+            642
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hunting Cabin",
+        "layer": "base",
+        "icon": "Camp_Icon",
+        "pos": [
+            1424,
+            668
+        ],
+        "description": ""
+    },
+    {
+        "name": "Slavetaker&#039;s Outpost",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2041,
+            490
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ruined Watchtower",
+        "layer": "base",
+        "icon": "BlackHand_Icon",
+        "pos": [
+            599,
+            1241
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Hive",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1009,
+            737
+        ],
+        "description": ""
+    },
+    {
+        "name": "Road of Pilgrims",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2118,
+            919
+        ],
+        "description": ""
+    },
+    {
+        "name": "Temple Ruins",
+        "layer": "base",
+        "icon": "Lemurian_Icon",
+        "pos": [
+            588,
+            1600
+        ],
+        "description": ""
+    },
+    {
+        "name": "Desert Outlook",
+        "layer": "base",
+        "icon": "Darfari_Icon",
+        "pos": [
+            781,
+            982
+        ],
+        "description": ""
+    },
+    {
+        "name": "Broken Bones Cavern",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            1543,
+            726
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hoarfrost Forest",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1878,
+            577
+        ],
+        "description": ""
+    },
+    {
+        "name": "Blood Hills",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1135,
+            833
+        ],
+        "description": ""
+    },
+    {
+        "name": "Glowing Ice Grotto",
+        "layer": "base",
+        "icon": "Cave_Icon",
+        "pos": [
+            2263,
+            1623
+        ],
+        "description": ""
+    },
+    {
+        "name": "Burial Mounds",
+        "layer": "base",
+        "icon": "Ruins_Icon",
+        "pos": [
+            1492,
+            1171
+        ],
+        "description": ""
+    },
+    {
+        "name": "Broken Waves Outpost",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            2230,
+            1721
+        ],
+        "description": ""
+    },
+    {
+        "name": "Icedrop Pond",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2123,
+            530
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cracked Fjords",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            2335,
+            1276
+        ],
+        "description": ""
+    },
+    {
+        "name": "Wreck of the Sea-Tiger",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            1047,
+            546
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Oasis",
+        "layer": "base",
+        "icon": "Vista_Icon",
+        "pos": [
+            918,
+            570
+        ],
+        "description": ""
+    },
+    {
+        "name": "Wintergarde Outpost",
+        "layer": "base",
+        "icon": "Ymir_Icon",
+        "pos": [
+            1785,
+            968
+        ],
+        "description": ""
+    },
+    {
+        "name": "Murun Outskirts Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            890,
+            1036
+        ],
+        "description": "",
+        "image": "Murun_Outskirts_Caravan.png"
+    },
+    {
+        "name": "Ruins of Xun&#039;Sha Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            848,
+            1676
+        ],
+        "description": "Found just inside the ruins area.",
+        "image": "Ruins_of_Xun'Sha_Caravan.png"
+    },
+    {
+        "name": "Old Trade Docks Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            1277,
+            1294
+        ],
+        "description": "",
+        "image": "Old_Trade_Docks_Caravan.png"
+    },
+    {
+        "name": "Volcano Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            1226,
+            1075
+        ],
+        "description": "Just inside the Volcano area.",
+        "image": "Volcano_Caravan.png"
+    },
+    {
+        "name": "Wolfrun Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            1732,
+            460
+        ],
+        "description": "",
+        "image": "Wolfrun_Caravan.png"
+    },
+    {
+        "name": "South Beach",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            604,
+            856
+        ],
+        "description": "",
+        "image": "South_Beach_Caravan.png"
+    },
+    {
+        "name": "Last Refuge Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            2393,
+            852
+        ],
+        "description": "Inside the Last Refuge area near the entrance.",
+        "image": "Last_Refuge_Caravan.png"
+    },
+    {
+        "name": "Cracked Fjords Caravan",
+        "layer": "Caravans",
+        "icon": "default",
+        "pos": [
+            2340,
+            1271
+        ],
+        "description": "",
+        "image": "Cracked_Fjords_Caravan.png"
+    },
+    {
+        "name": "Animal Trainer",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            2396,
+            840
+        ],
+        "description": "AlthrasInside the Last Refuge near the Animal Pens."
+    },
+    {
+        "name": "Tools Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            888,
+            959
+        ],
+        "description": "Velaryus"
+    },
+    {
+        "name": "Henna Artist",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            923,
+            1052
+        ],
+        "description": "Alexandria"
+    },
+    {
+        "name": "Light Armor Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            921,
+            1057
+        ],
+        "description": "Zalika"
+    },
+    {
+        "name": "Bowyer",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            895,
+            959
+        ],
+        "description": "Rin F&#039;har"
+    },
+    {
+        "name": "Horse Breeder",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            2396,
+            854
+        ],
+        "description": "BertrandInside the Last Refuge by the Stables."
+    },
+    {
+        "name": "Food Vendor",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            914,
+            1057
+        ],
+        "description": "Tania"
+    },
+    {
+        "name": "Thrall Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            599,
+            856
+        ],
+        "description": "Zeina The VixenSells Relic Hunter Thralls."
+    },
+    {
+        "name": "Grand Fisherman",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            918,
+            1045
+        ],
+        "description": "Phishie"
+    },
+    {
+        "name": "Weapons Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            888,
+            961
+        ],
+        "description": "Laros Swiftsteel"
+    },
+    {
+        "name": "Coin Exchange",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            909,
+            996
+        ],
+        "description": "Met-su-khons: Silver for Bronze<br>Takarut: Gold for Bronze"
+    },
+    {
+        "name": "Hunter",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            928,
+            1052
+        ],
+        "description": "Oraime"
+    },
+    {
+        "name": "Occultist",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            914,
+            1045
+        ],
+        "description": "Insein of Zamora"
+    },
+    {
+        "name": "Thrall Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            921,
+            977
+        ],
+        "description": "LaudepiusSells Relic Hunter Thralls"
+    },
+    {
+        "name": "Horse Breeder",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            916,
+            1033
+        ],
+        "description": "Khagatai Darmala"
+    },
+    {
+        "name": "Pearls for Rare Items",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            599,
+            854
+        ],
+        "description": "Shamalla, The Pirate Queen &amp; Weeba Shamrock"
+    },
+    {
+        "name": "Apothecary",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            923,
+            1036
+        ],
+        "description": "Sissa"
+    },
+    {
+        "name": "Heavy Armor Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            921,
+            1054
+        ],
+        "description": "Kabhsenuf"
+    },
+    {
+        "name": "Bar Keeper",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            916,
+            1057
+        ],
+        "description": "Tarin Rhyos"
+    },
+    {
+        "name": "Animal Trainer",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            921,
+            1038
+        ],
+        "description": "Sloarlach Manyskins"
+    },
+    {
+        "name": "Medium Armor Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            921,
+            1057
+        ],
+        "description": "Taf-nekht"
+    },
+    {
+        "name": "Thrall Merchant",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            916,
+            980
+        ],
+        "description": "BrivanSells Dafari Thralls"
+    },
+    {
+        "name": "Food Vendor",
+        "layer": "Merchants",
+        "icon": "default",
+        "pos": [
+            893,
+            1036
+        ],
+        "description": "Nadia"
+    },
+    {
+        "name": "The Lost Atheneum",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            350,
+            246
+        ],
+        "description": ""
+    },
+    {
+        "name": "House of Vala",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            285,
+            334
+        ],
+        "description": ""
+    },
+    {
+        "name": "No Man&#039;s Land Caravan",
+        "layer": "No Man's Land POIs",
+        "icon": "Caravan_Icon",
+        "pos": [
+            327,
+            190
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Blackblood Crypt",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            217,
+            309
+        ],
+        "description": ""
+    },
+    {
+        "name": "Halls of the Voidforge",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            338,
+            181
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Engineer&#039;s Prison",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            285,
+            418
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Sunken Forge",
+        "layer": "No Man's Land POIs",
+        "icon": "Dungeon_Icon",
+        "pos": [
+            341,
+            211
+        ],
+        "description": ""
+    },
+    {
+        "name": "Baaaaaaa",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1958,
+            751
+        ],
+        "description": ""
+    },
+    {
+        "name": "Valeria of the Red Brotherhood",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            909,
+            1033
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rusted Key",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2212,
+            803
+        ],
+        "description": "Up up up for a rusted key!"
+    },
+    {
+        "name": "Sealed Waterskin",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            720,
+            1096
+        ],
+        "description": ""
+    },
+    {
+        "name": "Black Blood Tools",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1009,
+            1469
+        ],
+        "description": "Kill the Elite Child of Jhil<br><br>Randomly drops: <ul><li>Black Blood Skinning Knife<li>Black Blood Hatchet<li>Black Blood Sickle</ul>"
+    },
+    {
+        "name": "Entrance to Silver Mine",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1534,
+            1553
+        ],
+        "description": ""
+    },
+    {
+        "name": "Underwater Temple",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1321,
+            1129
+        ],
+        "description": "Dive down down down inside the round ruin to an underwater ruined temple area with many chests!"
+    },
+    {
+        "name": "Entrance to Silver Mine",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1582,
+            1523
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hanuman&#039;s Boon",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2295,
+            1884
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sealed Waterskin",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            755,
+            1117
+        ],
+        "description": ""
+    },
+    {
+        "name": "Hidden Stash",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2233,
+            733
+        ],
+        "description": "Hidden behind 11 sliding doors. Need the rusted key from the body in the upper platform of the south tower.<br><br>1. Supply Materials<br>2. Fragment of Power<br>3. Rare Materials<br>4, Legendary Items<br>5. Legendary Tool<br>6. Bile<br>7. Legenday Armor Recipe<br>8. Star Metal Ore<br>9. Eldarium<br>10. Legendary Weapon<br>11. Lotus Seeds"
+    },
+    {
+        "name": "Werewolf",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1126,
+            1231
+        ],
+        "description": "Drops Flesh of Remebrance and Shadebloom",
+        "image": "Werewolf.png"
+    },
+    {
+        "name": "Hidden Cellar",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1725,
+            707
+        ],
+        "description": "Under the moving Ymir shrine."
+    },
+    {
+        "name": "Entrance to Imp King Cave",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1419,
+            1266
+        ],
+        "description": ""
+    },
+    {
+        "name": "Underwater Cave",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1021,
+            521
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cave - Maelgwyn&#039;s Glen",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1508,
+            1616
+        ],
+        "description": "",
+        "image": "Cave_-_Maelgwyn's_Glen.png"
+    },
+    {
+        "name": "Sealed Waterskin",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            711,
+            1075
+        ],
+        "description": ""
+    },
+    {
+        "name": "Entrance to Sand Reaper Den",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1359,
+            728
+        ],
+        "description": ""
+    },
+    {
+        "name": "Portal to the Witch Queen&#039;s Lair",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1743,
+            1450
+        ],
+        "description": ""
+    },
+    {
+        "name": "Secret Stash",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1231,
+            477
+        ],
+        "description": "Click on the Lemurian Lion statue at the edge of the platform to move it backwards and loot three hidden chests."
+    },
+    {
+        "name": "Black Blood Pick",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1203,
+            1031
+        ],
+        "description": "Inside the Crystal Cave on the left."
+    },
+    {
+        "name": "Uh oh...",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            911,
+            998
+        ],
+        "description": ""
+    },
+    {
+        "name": "Cave - Red Rock Outpost",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            886,
+            831
+        ],
+        "description": "",
+        "image": "Cave_-_Red_Rock_Outpost.png"
+    },
+    {
+        "name": "Respawn Point - The Pit",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            732,
+            1052
+        ],
+        "description": ""
+    },
+    {
+        "name": "Entrance to Volcano",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1238,
+            1078
+        ],
+        "description": "",
+        "image": "Entrance_to_Volcano.png"
+    },
+    {
+        "name": "Gravedigger",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1394,
+            1075
+        ],
+        "description": "Leaning against the large wooden crate."
+    },
+    {
+        "name": "Lian the Cannibal&#039;s Lair",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1648,
+            598
+        ],
+        "description": ""
+    },
+    {
+        "name": "Broken Bridge",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1063,
+            1029
+        ],
+        "description": ""
+    },
+    {
+        "name": "There is Something Seriously Wrong With You...",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            993,
+            975
+        ],
+        "description": ""
+    },
+    {
+        "name": "Respawn Point - The Pit",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            727,
+            1047
+        ],
+        "description": ""
+    },
+    {
+        "name": "Down the Well",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            848,
+            1374
+        ],
+        "description": "",
+        "image": "Outpost_Ruins_Well.png"
+    },
+    {
+        "name": "Black Blood Tools",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2340,
+            686
+        ],
+        "description": "Kill the Elite Child of Jhil<br><br>Randomly drops: <ul><li>Black Blood Skinning Knife<li>Black Blood Hatchet<li>Black Blood Sickle<li>and Black Blood Pick</ul>"
+    },
+    {
+        "name": "Rusted Key",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2163,
+            723
+        ],
+        "description": "Up up up for a rusted key!"
+    },
+    {
+        "name": "Entrance to Underwater Cave",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1394,
+            1075
+        ],
+        "description": "",
+        "image": "Entrance_to_Underwater_cave.png"
+    },
+    {
+        "name": "Cave - Vargrheim",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1466,
+            1318
+        ],
+        "description": "",
+        "image": "Cave_-_Vargrheim.png"
+    },
+    {
+        "name": "Good Game...",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1424,
+            1618
+        ],
+        "description": ""
+    },
+    {
+        "name": "Enter the grate if you dare...",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2219,
+            805
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Notch and Arrow Tavern",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            890,
+            950
+        ],
+        "description": "Hall of Heros<br>Entrance to Dreamlands",
+        "image": "Tavern.png"
+    },
+    {
+        "name": "Meteor Strike Area",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2009,
+            1215
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frozen Monastery",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            2230,
+            1718
+        ],
+        "description": "",
+        "image": "Frozen_Monastery.png"
+    },
+    {
+        "name": "Collapsed Mine",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1571,
+            1474
+        ],
+        "description": "Skellie spawnsRipping Great Axe on a crate on the way inMind the fog...",
+        "image": "Collapsed_Mine.png"
+    },
+    {
+        "name": "Entrance to Queen&#039;s Tomb (Lava)",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1091,
+            842
+        ],
+        "description": ""
+    },
+    {
+        "name": "Lioness Statue",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            956,
+            1143
+        ],
+        "description": "",
+        "image": "Lioness_Statue.png"
+    },
+    {
+        "name": "Radium Gem",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            1100,
+            497
+        ],
+        "description": "Inside the Last Words Cavern."
+    },
+    {
+        "name": "Underwater Breathing Mask",
+        "layer": "Miscellaneous POI",
+        "icon": "default",
+        "pos": [
+            949,
+            684
+        ],
+        "description": "On a table near the bonfire."
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            767,
+            574
+        ],
+        "description": "Language Dictionary (Khitani)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            650,
+            840
+        ],
+        "description": "Language Dictionary (Shemitish)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            886,
+            626
+        ],
+        "description": "Language Dictionary (Himelian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1063,
+            525
+        ],
+        "description": "Language Dictionary (Ancient Stygian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1429,
+            1169
+        ],
+        "description": "Language Dictionary (Zhemri)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            608,
+            882
+        ],
+        "description": "Language Dictionary (Tongue of the Serpent Men)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            622,
+            612
+        ],
+        "description": "Language Dictionary (Nemedian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            741,
+            614
+        ],
+        "description": "Language Dictionary (Kothian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            816,
+            586
+        ],
+        "description": "Language Dictionary (Kambujan)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1088,
+            1038
+        ],
+        "description": "Lnaguage Dictionary (Valusian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            709,
+            633
+        ],
+        "description": "Language Dictionary (Lemurian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            613,
+            712
+        ],
+        "description": "Language Dictionary (Nordheimr)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1438,
+            1376
+        ],
+        "description": "Language Dictionary (Zuagir)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            550,
+            1213
+        ],
+        "description": "Language Dictionary (Turanian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1450,
+            1022
+        ],
+        "description": "Language Dictinary (Vilayet)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1014,
+            593
+        ],
+        "description": "Language Dictionary (Atlantean)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            965,
+            609
+        ],
+        "description": "Language Dictionary (Barachan)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            946,
+            628
+        ],
+        "description": "Language Dictionary (Black Kingdoms)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1049,
+            544
+        ],
+        "description": "Language Dictionary (Argossean)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            914,
+            574
+        ],
+        "description": "Language Dictionary (Cimmerian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1394,
+            1287
+        ],
+        "description": "Language Dictionary (Zingaran)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            807,
+            553
+        ],
+        "description": "Language Dictionary (Keshani)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            853,
+            612
+        ],
+        "description": "Language Scroll (Hyperborean)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1426,
+            1120
+        ],
+        "description": "Language Dictionary (Zamoran)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            837,
+            621
+        ],
+        "description": "Language Dictionary (Hyrkanian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            939,
+            577
+        ],
+        "description": "Language Dictionary (Brythunian)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            1170,
+            973
+        ],
+        "description": "Language Dictionary (Vendhyan)"
+    },
+    {
+        "name": "Message in a Bottle",
+        "layer": "Language Scrolls",
+        "icon": "default",
+        "pos": [
+            608,
+            775
+        ],
+        "description": "Language Dictionary (Pictish)"
+    },
+    {
+        "name": "Siptah Rhino Calf",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2256,
+            1413
+        ],
+        "description": ""
+    },
+    {
+        "name": "Panther Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            855,
+            1614
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ostrich Chicks",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            986,
+            980
+        ],
+        "description": ""
+    },
+    {
+        "name": "Siptah Rhino Calfs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1953,
+            1436
+        ],
+        "description": ""
+    },
+    {
+        "name": "Island Lynx Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1256,
+            880
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sabretooth Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2209,
+            910
+        ],
+        "description": ""
+    },
+    {
+        "name": "Island Lynx Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            860,
+            1511
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sabretooth Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2181,
+            1252
+        ],
+        "description": ""
+    },
+    {
+        "name": "Salamander Hatchling",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            744,
+            1471
+        ],
+        "description": ""
+    },
+    {
+        "name": "Tiger Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            984,
+            1117
+        ],
+        "description": ""
+    },
+    {
+        "name": "Siptah Rhino Calf",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2002,
+            1455
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ostrich Chicks",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            932,
+            961
+        ],
+        "description": ""
+    },
+    {
+        "name": "Salamander Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1217,
+            1087
+        ],
+        "description": "Found inside the Volcano."
+    },
+    {
+        "name": "Boar Shoat",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1312,
+            800
+        ],
+        "description": ""
+    },
+    {
+        "name": "Bear Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2328,
+            1348
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frostwolf Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2044,
+            507
+        ],
+        "description": ""
+    },
+    {
+        "name": "Spider Eggs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1235,
+            458
+        ],
+        "description": "Spider Eggs in a Basket!",
+        "image": "Spider_Eggs.png"
+    },
+    {
+        "name": "Jaguar Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1296,
+            497
+        ],
+        "description": ""
+    },
+    {
+        "name": "Playful Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1433,
+            1278
+        ],
+        "description": ""
+    },
+    {
+        "name": "Island Lynx Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1415,
+            486
+        ],
+        "description": ""
+    },
+    {
+        "name": "Playful Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1582,
+            1516
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rhino Calfs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            862,
+            1397
+        ],
+        "description": ""
+    },
+    {
+        "name": "Jaguar Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            893,
+            1597
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crocodile Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            588,
+            1201
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sabretooth Cub",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1855,
+            873
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mountain Lion Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2219,
+            1124
+        ],
+        "description": ""
+    },
+    {
+        "name": "Playful Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1638,
+            591
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shaleback Hatchelings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            800,
+            574
+        ],
+        "description": ""
+    },
+    {
+        "name": "Lion Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            970,
+            1162
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sabretooth Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1615,
+            1502
+        ],
+        "description": ""
+    },
+    {
+        "name": "Playful Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            911,
+            1040
+        ],
+        "description": ""
+    },
+    {
+        "name": "Striped Hyena Whelp",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            914,
+            961
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mountain Lion Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1326,
+            1360
+        ],
+        "description": ""
+    },
+    {
+        "name": "Bear Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2372,
+            963
+        ],
+        "description": ""
+    },
+    {
+        "name": "Jaguar Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1154,
+            465
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sand Reaper Egg",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1363,
+            733
+        ],
+        "description": "Inside the Reaper Nests (looks like a dragon egg)."
+    },
+    {
+        "name": "Shaggai Larvae",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1081,
+            754
+        ],
+        "description": "",
+        "image": "Shaggai_Larvae.png"
+    },
+    {
+        "name": "Bear Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1564,
+            537
+        ],
+        "description": ""
+    },
+    {
+        "name": "Locust Spawns",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1349,
+            712
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shaleback Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            958,
+            537
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crocodile Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            809,
+            586
+        ],
+        "description": ""
+    },
+    {
+        "name": "Bear Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1659,
+            658
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Shoat",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2226,
+            1672
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shaleback Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            583,
+            1152
+        ],
+        "description": ""
+    },
+    {
+        "name": "Jaguar Cub",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            662,
+            1334
+        ],
+        "description": ""
+    },
+    {
+        "name": "Feral Dog Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1429,
+            1117
+        ],
+        "description": ""
+    },
+    {
+        "name": "Scorpion Eggs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1135,
+            1026
+        ],
+        "description": "Gathered from the corpse of the Scorpion Queen."
+    },
+    {
+        "name": "Boar Shoat",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2361,
+            1234
+        ],
+        "description": ""
+    },
+    {
+        "name": "Wolf Pups",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1510,
+            418
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Shoats",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1594,
+            873
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mountain Lion Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1312,
+            870
+        ],
+        "description": "Up, up, up!"
+    },
+    {
+        "name": "Jungleclaw Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1242,
+            1208
+        ],
+        "description": ""
+    },
+    {
+        "name": "Island Lynx Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1403,
+            584
+        ],
+        "description": ""
+    },
+    {
+        "name": "Pet Eggs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1384,
+            845
+        ],
+        "description": "Found on Menagerie Keepers, dropped at random.Rocknose Eggs, Spider Egg Sacs, Shoebill Eggs"
+    },
+    {
+        "name": "Wolf Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1443,
+            1725
+        ],
+        "description": ""
+    },
+    {
+        "name": "Wolf Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1690,
+            514
+        ],
+        "description": ""
+    },
+    {
+        "name": "Komodo Hatchling",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            781,
+            1476
+        ],
+        "description": ""
+    },
+    {
+        "name": "Island Lynx Cub",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            942,
+            1518
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Shoats",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2354,
+            912
+        ],
+        "description": ""
+    },
+    {
+        "name": "Salamander Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            613,
+            710
+        ],
+        "description": ""
+    },
+    {
+        "name": "Locust Spawn",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            532,
+            1378
+        ],
+        "description": ""
+    },
+    {
+        "name": "Jaguar Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            671,
+            1329
+        ],
+        "description": ""
+    },
+    {
+        "name": "Tiger Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            753,
+            1292
+        ],
+        "description": ""
+    },
+    {
+        "name": "Antideluvian Elephant Calfs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2006,
+            1248
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Shoats",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2137,
+            873
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ostrich Chicks",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            832,
+            1322
+        ],
+        "description": ""
+    },
+    {
+        "name": "Boar Shoat",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1249,
+            917
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frostwolf Pups",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1690,
+            1089
+        ],
+        "description": ""
+    },
+    {
+        "name": "Horse Foals",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1459,
+            677
+        ],
+        "description": ""
+    },
+    {
+        "name": "Spotted Hyena Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            650,
+            798
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crocodile Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1035,
+            570
+        ],
+        "description": ""
+    },
+    {
+        "name": "Horse Foals",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1494,
+            479
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mountain Lion Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1855,
+            1639
+        ],
+        "description": ""
+    },
+    {
+        "name": "Komodo Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            848,
+            1681
+        ],
+        "description": "Inside the swamp area of the Ruins of Xun&#039;Sha."
+    },
+    {
+        "name": "Elephant Calf",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            930,
+            1176
+        ],
+        "description": ""
+    },
+    {
+        "name": "Horse Foals",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1275,
+            835
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rhino Calf",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            932,
+            1229
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shaleback Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            697,
+            943
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crocodile Hatchlings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            739,
+            1611
+        ],
+        "description": ""
+    },
+    {
+        "name": "Playful Pup",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1715,
+            710
+        ],
+        "description": ""
+    },
+    {
+        "name": "Shaleback Hatchelings",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            841,
+            560
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frostwolf Pups",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2242,
+            1150
+        ],
+        "description": ""
+    },
+    {
+        "name": "Bear Cubs",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            2351,
+            1276
+        ],
+        "description": ""
+    },
+    {
+        "name": "Mountain Lion Cub",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1862,
+            1567
+        ],
+        "description": ""
+    },
+    {
+        "name": "Siptah Rhino Calf",
+        "layer": "Pets",
+        "icon": "default",
+        "pos": [
+            1599,
+            784
+        ],
+        "description": ""
+    },
+    {
+        "name": "Obsidian Warhammer",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1128,
+            1064
+        ],
+        "description": "",
+        "image": "Obsidian_Warhammer.png"
+    },
+    {
+        "name": "Obsidian Tools",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1100,
+            1099
+        ],
+        "description": "",
+        "image": "Obsidian_Tools.png"
+    },
+    {
+        "name": "Ruiner",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            851,
+            1378
+        ],
+        "description": "Touch the saw.",
+        "image": "Ruiner.png"
+    },
+    {
+        "name": "Obsidian Arrow",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1121,
+            1080
+        ],
+        "description": "",
+        "image": "Obsidian_Arrow.png"
+    },
+    {
+        "name": "Khari War-Axe",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            928,
+            1036
+        ],
+        "description": "",
+        "image": "Khari_War-Axe.png"
+    },
+    {
+        "name": "Grandmaster Armorsmith",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1112,
+            873
+        ],
+        "description": "At the very top of the Queen&#039;s Tomb by the well entrance.",
+        "image": "Grandmaster_Armorsmith.png"
+    },
+    {
+        "name": "Specialist Cooking I",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            895,
+            1115
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_I.png"
+    },
+    {
+        "name": "Specialist Brewing III",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1074,
+            500
+        ],
+        "description": "Inside Last Words Cavern",
+        "image": "Specialist_Brewing_III.png"
+    },
+    {
+        "name": "Stygian Commander&#039;s Helmet",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            261,
+            297
+        ],
+        "description": "",
+        "image": "Stygian_Commanders_Helmet.png"
+    },
+    {
+        "name": "Forgotten Clan Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            2188,
+            719
+        ],
+        "description": "",
+        "image": "Forgotten_Clan_Banners.png"
+    },
+    {
+        "name": "Specialist Ammunition IV",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1328,
+            1141
+        ],
+        "description": "",
+        "image": "Specialist_Ammunition_IV.png"
+    },
+    {
+        "name": "Silent Legion Armor &amp; Kinscourge Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1084,
+            682
+        ],
+        "description": "Learned by touching the sword in the stone.",
+        "image": "Silent_Legion_Armor_&_Kinscourge_Weapons.png"
+    },
+    {
+        "name": "Pirate Cuisine",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1100,
+            495
+        ],
+        "description": "Inside Last Words Cavern",
+        "image": "Pirate_Cuisine.png"
+    },
+    {
+        "name": "Delving Bench",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            683,
+            1341
+        ],
+        "description": "",
+        "image": "Delving_Bench_2.png"
+    },
+    {
+        "name": "Convergence Trap",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            2251,
+            884
+        ],
+        "description": "At bottom of hidden dungeon at Ruined Abode.",
+        "image": "Convergence_Trap.png"
+    },
+    {
+        "name": "Obsidian Shields",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1130,
+            1066
+        ],
+        "description": "",
+        "image": "Obsidian_Shields.png"
+    },
+    {
+        "name": "Scorpion Queen Venom",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1140,
+            1022
+        ],
+        "description": "",
+        "image": "Scorpion_Queen_Venom.png"
+    },
+    {
+        "name": "Relic Hunter Armor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            888,
+            952
+        ],
+        "description": "",
+        "image": "Relic_Hunter_Armor.png"
+    },
+    {
+        "name": "Obsidian Javelin",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1130,
+            1066
+        ],
+        "description": "",
+        "image": "Obsidian_Javelin.png"
+    },
+    {
+        "name": "Pride of Aesir",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1561,
+            956
+        ],
+        "description": "",
+        "image": "Pride_of_Aesir.png"
+    },
+    {
+        "name": "Dafari Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            783,
+            980
+        ],
+        "description": "",
+        "image": "Dafari_Weapons3.png"
+    },
+    {
+        "name": "Midnight Alchemist",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1396,
+            770
+        ],
+        "description": "",
+        "image": "Midnight_Alchemist.png"
+    },
+    {
+        "name": "Specialist Cooking I",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1643,
+            598
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_I.png"
+    },
+    {
+        "name": "Stygian Invader Armor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            289,
+            267
+        ],
+        "description": "",
+        "image": "Stygian_Invader_Armor.png"
+    },
+    {
+        "name": "Expert Mountaineer",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1098,
+            868
+        ],
+        "description": "",
+        "image": "Expert_Mountaineer.png"
+    },
+    {
+        "name": "Obsidian Dagger",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1119,
+            1064
+        ],
+        "description": "",
+        "image": "Obsidian_Dagger.png"
+    },
+    {
+        "name": "Grandmaster Weaponsmith &amp; Eldarium Tools",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            758,
+            775
+        ],
+        "description": "In the last room of the Atlantean Tomb.",
+        "image": "Eldarium_Tools.png"
+    },
+    {
+        "name": "Abysmal Dagger &amp; Abysmal Arrows",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            890,
+            521
+        ],
+        "description": "",
+        "image": "Abysmal_Dagger_&_Abysmal_Arrows.png"
+    },
+    {
+        "name": "Specialist Cooking X",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1422,
+            1616
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_X.png"
+    },
+    {
+        "name": "Darfari Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            643,
+            677
+        ],
+        "description": "",
+        "image": "Darfari_Banners.png"
+    },
+    {
+        "name": "Khari Daggers",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            949,
+            1057
+        ],
+        "description": "",
+        "image": "Khari_Daggers.png"
+    },
+    {
+        "name": "Lemurian Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            851,
+            530
+        ],
+        "description": "Swim to the very bottom of the round ruin.",
+        "image": "Lemurian_Sword.png"
+    },
+    {
+        "name": "Frost Smithing",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1783,
+            877
+        ],
+        "description": "Inside Rimfrost Grotto next to Frost Forge.",
+        "image": "Frost_Smithing.png"
+    },
+    {
+        "name": "Dredger",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            865,
+            521
+        ],
+        "description": "",
+        "image": "Dredger.png"
+    },
+    {
+        "name": "Witchdoctor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            646,
+            651
+        ],
+        "description": "",
+        "image": "Witchdoctor.png"
+    },
+    {
+        "name": "Stygian Alchemy",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            923,
+            1036
+        ],
+        "description": "",
+        "image": "Stygian_Alchemy.png"
+    },
+    {
+        "name": "Specialist Brewing II",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1485,
+            1614
+        ],
+        "description": "",
+        "image": "Specialist_Brewing_II.png"
+    },
+    {
+        "name": "Specialist Cooking II",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1228,
+            1481
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_II.png"
+    },
+    {
+        "name": "Specialist Cooking IV",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1391,
+            516
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_IV.png"
+    },
+    {
+        "name": "Specialist Brewing I",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1028,
+            1206
+        ],
+        "description": "",
+        "image": "Specialist_Brewing_I.png"
+    },
+    {
+        "name": "Dafari Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            760,
+            1122
+        ],
+        "description": "",
+        "image": "Dafari_Weapons3.png"
+    },
+    {
+        "name": "Buccaneer",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            897,
+            810
+        ],
+        "description": "",
+        "image": "Buccaneer.png"
+    },
+    {
+        "name": "Expert Survivalist",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            923,
+            1054
+        ],
+        "description": "",
+        "image": "Expert_Survivalist.png"
+    },
+    {
+        "name": "Island Hunter",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1023,
+            1215
+        ],
+        "description": "",
+        "image": "Island_Hunter.png"
+    },
+    {
+        "name": "Black Corsair Outfit",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            215,
+            421
+        ],
+        "description": "",
+        "image": "Black_Corsair_Outfit.png"
+    },
+    {
+        "name": "Ancient Lemurian Trident",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            585,
+            1600
+        ],
+        "description": "",
+        "image": "Ancient_Lemurian_Trident.png"
+    },
+    {
+        "name": "Khari Pike",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            918,
+            982
+        ],
+        "description": "",
+        "image": "Khari_Pike.png"
+    },
+    {
+        "name": "Wrecker",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1000,
+            553
+        ],
+        "description": "",
+        "image": "Wrecker.png"
+    },
+    {
+        "name": "Specialist Cooking VII",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1482,
+            1616
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_VII.png"
+    },
+    {
+        "name": "Specialist Ammunition IV",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            988,
+            1420
+        ],
+        "description": "Kill the Elite Child of Jhil.",
+        "image": "Specialist_Ammunition_IV.png"
+    },
+    {
+        "name": "Ancient Lemurian Shield",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            592,
+            1609
+        ],
+        "description": "Up up!",
+        "image": "Anicent_Lemurian_Shield.png"
+    },
+    {
+        "name": "Reptile Leather Epic",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1105,
+            467
+        ],
+        "description": "Inside Last Words Cavern at the end of a jumping puzzle to cross the floating wreckage.",
+        "image": "Reptile_Leather_Epic.png"
+    },
+    {
+        "name": "Lemurian Pike",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            862,
+            507
+        ],
+        "description": "",
+        "image": "Lemurian_Pike.png"
+    },
+    {
+        "name": "Hyena-Fur Armor &amp; Hyena-Fur Epic",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            734,
+            696
+        ],
+        "description": "",
+        "image": "Hyena-Fur_Armor_&_Hyena-Fur_Epic.png"
+    },
+    {
+        "name": "Obsidian Spear",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1116,
+            1085
+        ],
+        "description": "",
+        "image": "Obsidian_Spear.png"
+    },
+    {
+        "name": "Skulltaker",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            904,
+            1110
+        ],
+        "description": "",
+        "image": "Skulltaker.png"
+    },
+    {
+        "name": "Nordheimer Walls",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            2039,
+            689
+        ],
+        "description": "",
+        "image": "Nordheimer_Walls.png"
+    },
+    {
+        "name": "Delving Bench",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            848,
+            1676
+        ],
+        "description": "Just inside the Ruins of Xun&#039;Sha area at the caravan.",
+        "image": "Delving_Bench_2.png"
+    },
+    {
+        "name": "Specialist Cooking VI",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1715,
+            714
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_VI.png"
+    },
+    {
+        "name": "Mountaineer",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            720,
+            682
+        ],
+        "description": "",
+        "image": "Mountaineer.png"
+    },
+    {
+        "name": "Aloe Soup",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            685,
+            1336
+        ],
+        "description": "Purchased from Crone for 10 gold.",
+        "image": "Aloe_Soup.png"
+    },
+    {
+        "name": "Iron Leg-Hold Trap",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1424,
+            1280
+        ],
+        "description": "",
+        "image": "Iron_Leg-Hold_Trap.png"
+    },
+    {
+        "name": "Ancient Lemurian Axe",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            858,
+            502
+        ],
+        "description": "",
+        "image": "Ancient_Lemurian_Axe.png"
+    },
+    {
+        "name": "Obsidian Mace",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1100,
+            1022
+        ],
+        "description": "",
+        "image": "Obsidian_Mace.png"
+    },
+    {
+        "name": "Khari Great-Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            904,
+            1052
+        ],
+        "description": "",
+        "image": "Khari_Great-Sword.png"
+    },
+    {
+        "name": "Master Survivalist",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1331,
+            1280
+        ],
+        "description": "",
+        "image": "Master_Survivalist.png"
+    },
+    {
+        "name": "Relic Hunter Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            893,
+            963
+        ],
+        "description": "",
+        "image": "Relic_Hunter_Banners.png"
+    },
+    {
+        "name": "Ancient Lemurian Wraps &amp; Aloe Extract",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1440,
+            1061
+        ],
+        "description": "Inside underwater cave.Also check the scroll pile at the end of the table for a random emotes scroll!",
+        "image": "Ancient_Lemurian_Wraps_&_Aloe_Extract.png"
+    },
+    {
+        "name": "Warmaker Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1121,
+            1555
+        ],
+        "description": "",
+        "image": "Warmaker_Weapons.png"
+    },
+    {
+        "name": "Nordheimer Shelving",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            2041,
+            689
+        ],
+        "description": "",
+        "image": "Nordheimer_Shelving.png"
+    },
+    {
+        "name": "Oar",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            725,
+            1134
+        ],
+        "description": "",
+        "image": "Oar.png"
+    },
+    {
+        "name": "Obsidian Two-Handed Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1109,
+            1075
+        ],
+        "description": "",
+        "image": "Obsidian_Two-Handed_Sword.png"
+    },
+    {
+        "name": "Heirs of the North Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            2048,
+            733
+        ],
+        "description": "",
+        "image": "Heirs_of_the_North_Banners.png"
+    },
+    {
+        "name": "Khari Bow",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            904,
+            987
+        ],
+        "description": "",
+        "image": "Khari_Bow.png"
+    },
+    {
+        "name": "Dagon&#039;s Breath",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1440,
+            1057
+        ],
+        "description": "Inside underwater cave.",
+        "image": "Dagon's_Breath.png"
+    },
+    {
+        "name": "Library of Esoteric Artifacts",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            692,
+            1621
+        ],
+        "description": "Once learned, spend Fragments of Power to learn a random recipe.",
+        "image": "Library_of_Esoteric_Artifacts.png"
+    },
+    {
+        "name": "Arena Champions Armor &amp; Godbreaker Armor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1538,
+            1171
+        ],
+        "description": "",
+        "image": "Arena_Champions_Armor_&_Godbreaker_Armor.png"
+    },
+    {
+        "name": "Daggers of Dagon",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            585,
+            1623
+        ],
+        "description": "",
+        "image": "Daggers_of_Dagon.png"
+    },
+    {
+        "name": "Herpetology &amp; Abysmal Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            867,
+            591
+        ],
+        "description": "",
+        "image": "Herpetology_&_Abysmal_Sword.png"
+    },
+    {
+        "name": "Dogs of the Desert Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            839,
+            1383
+        ],
+        "description": "",
+        "image": "Dogs_of_the_Desert_Banners.png"
+    },
+    {
+        "name": "Lemurian Royal Armor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            695,
+            1616
+        ],
+        "description": "",
+        "image": "Lemurian_Royal_Armor.png"
+    },
+    {
+        "name": "Khari Hammer",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            909,
+            1001
+        ],
+        "description": "",
+        "image": "Khari_Hammer.png"
+    },
+    {
+        "name": "Dragonbone Armor &amp; Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1559,
+            372
+        ],
+        "description": "At the very end of the Old Mines behind the Undead Dragon.",
+        "image": "Dragonbone_Armor_&_Weapons.png"
+    },
+    {
+        "name": "Serpent-Man Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1182,
+            1059
+        ],
+        "description": "Deep down in the hole at the very back of Crystal Cave.",
+        "image": "Serpent-Man_Weapons.png"
+    },
+    {
+        "name": "Corrupted Mask",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            706,
+            898
+        ],
+        "description": "",
+        "image": "Corrupted_Mask.png"
+    },
+    {
+        "name": "Dafari Weapons",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            713,
+            891
+        ],
+        "description": "",
+        "image": "Dafari_Weapons3.png"
+    },
+    {
+        "name": "Black Hand Banners",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            592,
+            1236
+        ],
+        "description": "",
+        "image": "Black_Hand_Banners.png"
+    },
+    {
+        "name": "Totems",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1475,
+            1614
+        ],
+        "description": "",
+        "image": "Totems.png"
+    },
+    {
+        "name": "Khari Armors",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1051,
+            726
+        ],
+        "description": "",
+        "image": "Khari_Armors.png"
+    },
+    {
+        "name": "Ancient Lemurian Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            581,
+            1607
+        ],
+        "description": "",
+        "image": "Ancient_Lemurian_Sword.png"
+    },
+    {
+        "name": "Deep Sea Fisherman",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1384,
+            1297
+        ],
+        "description": "",
+        "image": "Deep_Sea_Fisherman.png"
+    },
+    {
+        "name": "Black Corsair Garb",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            597,
+            1241
+        ],
+        "description": "",
+        "image": "Black_Corsair_Garb.png"
+    },
+    {
+        "name": "Obsidian Sword",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1142,
+            1022
+        ],
+        "description": "",
+        "image": "Obsidian_Sword.png"
+    },
+    {
+        "name": "Black Corsairs Banner",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            252,
+            430
+        ],
+        "description": "",
+        "image": "Black_Corsairs_Banner.png"
+    },
+    {
+        "name": "Weapon Oils",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1112,
+            877
+        ],
+        "description": "Inside the Queen&#039;s Tomb by her feet.",
+        "image": "Weapon_Oils.png"
+    },
+    {
+        "name": "Specialist Cooking VIII",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            744,
+            705
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_VIII.png"
+    },
+    {
+        "name": "Lemurian Warrior Armor",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            695,
+            1635
+        ],
+        "description": "",
+        "image": "Lemurian_Warrior_Armor.png"
+    },
+    {
+        "name": "Vanquisher of the King Beneath",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            762,
+            777
+        ],
+        "description": "Kill the King Beneath and loot the scroll and golden key.",
+        "image": "The_King_Beneath.png"
+    },
+    {
+        "name": "Obsidian Throwing Axe",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1126,
+            1026
+        ],
+        "description": "",
+        "image": "Obsidian_Throwing_Axe.png"
+    },
+    {
+        "name": "Specialist Cooking V",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1321,
+            1290
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_V.png"
+    },
+    {
+        "name": "Specialist Cooking III",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1471,
+            553
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_III.png"
+    },
+    {
+        "name": "Specialist Cooking IX",
+        "layer": "Feats & Recipes",
+        "icon": "default",
+        "pos": [
+            1492,
+            1315
+        ],
+        "description": "",
+        "image": "Specialist_Cooking_IX.png"
+    },
+    {
+        "name": "Mitra",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            1394,
+            509
+        ],
+        "description": "Touch the shrine.",
+        "image": "Mitra.png"
+    },
+    {
+        "name": "Yog",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            639,
+            670
+        ],
+        "description": "Touch the totem.",
+        "image": "Yog.png"
+    },
+    {
+        "name": "Derketo",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            1231,
+            486
+        ],
+        "description": "Speak to the Yakira, Priestess of Derketo.",
+        "image": "Derketo.png"
+    },
+    {
+        "name": "Zath",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            909,
+            1054
+        ],
+        "description": "Inside, on the left, on top of the cabinet, is a small Zath shrine. Touch it for the key to the door behind the counter. Head inside the cave, down to where the large Zath shrine is toppled over, and the book is on top of the altar pillar nearest the snacking black widow.",
+        "image": "Zath.png"
+    },
+    {
+        "name": "Mitra",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            811,
+            700
+        ],
+        "description": "Muriela the Artisan",
+        "image": "Mitra.png"
+    },
+    {
+        "name": "Jhebbal Sag",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            1382,
+            835
+        ],
+        "description": "Touch the totem.",
+        "image": "Jhebbal_Sag.png"
+    },
+    {
+        "name": "Set",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            956,
+            1047
+        ],
+        "description": "",
+        "image": "Set.png"
+    },
+    {
+        "name": "Ymir",
+        "layer": "Religion Trainers",
+        "icon": "default",
+        "pos": [
+            1916,
+            1290
+        ],
+        "description": "Speak to the Outcast."
+    },
+    {
+        "name": "By Mitra",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            814,
+            700
+        ],
+        "description": ""
+    },
+    {
+        "name": "Aquilonian Bedtime Stories",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            835,
+            1206
+        ],
+        "description": "",
+        "image": "Aquilonian_Bedtime_Stories.png"
+    },
+    {
+        "name": "Cimmerian Dance",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            967,
+            1476
+        ],
+        "description": "",
+        "image": "Cimmerian_Dance.png"
+    },
+    {
+        "name": "Jester&#039;s Notebook",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1107,
+            511
+        ],
+        "description": "At the very back of Last Words Cavern.",
+        "image": "Jester's_Notebook.png"
+    },
+    {
+        "name": "Prayer to Yog",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            692,
+            898
+        ],
+        "description": "",
+        "image": "Prayer_to_Yog.png"
+    },
+    {
+        "name": "Thinker&#039;s Notes",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1715,
+            714
+        ],
+        "description": "",
+        "image": "Thinker's_Notes.png"
+    },
+    {
+        "name": "Groveller&#039;s Manual",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1718,
+            537
+        ],
+        "description": "",
+        "image": "Groveller's_Manual.png"
+    },
+    {
+        "name": "Aquilonian Dance",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1186,
+            1476
+        ],
+        "description": "",
+        "image": "Aquilonian_Dance.png"
+    },
+    {
+        "name": "One Hundred Shades of Pink",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            793,
+            1299
+        ],
+        "description": "",
+        "image": "One_Hundred_Shades_of_Pink.png"
+    },
+    {
+        "name": "Snake Dance",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1235,
+            481
+        ],
+        "description": "",
+        "image": "Snake_Dance.png"
+    },
+    {
+        "name": "Cimmerian Book of Taunts",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1527,
+            1658
+        ],
+        "description": "",
+        "image": "Cimmerian_Book_of_Taunts.png"
+    },
+    {
+        "name": "Tinker&#039;s Notebook",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            685,
+            1611
+        ],
+        "description": "",
+        "image": "Tinker's_Notebook.png"
+    },
+    {
+        "name": "War Dance",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1564,
+            954
+        ],
+        "description": "",
+        "image": "Wardance.png"
+    },
+    {
+        "name": "By Crom, Cross Arms",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1419,
+            2017
+        ],
+        "description": "In Last Refuge",
+        "image": "By_Crom_&_Cross_Arms.png"
+    },
+    {
+        "name": "Prayer to Mitra",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            900,
+            812
+        ],
+        "description": "",
+        "image": "Prayer_to_Mitra.png"
+    },
+    {
+        "name": "Scroll Pile",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            1440,
+            1061
+        ],
+        "description": "Inside underwater cave. Gives a random emote scroll."
+    },
+    {
+        "name": "Prayer to Set",
+        "layer": "Emotes",
+        "icon": "default",
+        "pos": [
+            951,
+            1045
+        ],
+        "description": "",
+        "image": "Prayer_to_Set.png"
+    },
+    {
+        "name": "Pet Emote: Sit",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            2228,
+            1728
+        ],
+        "description": "",
+        "image": "Pet_Emote_-_Sit.png"
+    },
+    {
+        "name": "Thrall Emote: Threaten (Unavailable!)",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            1035,
+            1213
+        ],
+        "description": "These were live in testing and removed before released, may return at a later date!(Threaten)",
+        "image": "Thrall_Emote_-_Threaten.png"
+    },
+    {
+        "name": "Thrall Emotes: Converse A-D",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            1207,
+            1464
+        ],
+        "description": "",
+        "image": "Thrall_Emote_-_Converse_A-D.png"
+    },
+    {
+        "name": "Pet Emote: Relax",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            2223,
+            500
+        ],
+        "description": "",
+        "image": "Pet_Emote_-_Relax.png"
+    },
+    {
+        "name": "Pet Emote: Eat",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            1384,
+            847
+        ],
+        "description": "",
+        "image": "Pet_Emote_-_Eat.png"
+    },
+    {
+        "name": "Pet Emotes: Sift, Howl, Ambush (Unavailable!)",
+        "layer": "Pet & Thrall Emotes",
+        "icon": "default",
+        "pos": [
+            1426,
+            670
+        ],
+        "description": "These were live in testing and removed before released, may return at a later date!(Sift, Howl, Ambush, etc)"
+    },
+    {
+        "name": "Purple Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            639,
+            1499
+        ],
+        "description": ""
+    },
+    {
+        "name": "Black Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            546,
+            1471
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            2004,
+            1075
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1613,
+            1497
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crimson Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1534,
+            1662
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1725,
+            1439
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1818,
+            1287
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1960,
+            1779
+        ],
+        "description": ""
+    },
+    {
+        "name": "Crimson Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1412,
+            1604
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Lotus",
+        "layer": "Lotus",
+        "icon": "default",
+        "pos": [
+            1899,
+            1411
+        ],
+        "description": ""
+    },
+    {
+        "name": "Frost Dragon",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2230,
+            1544
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rotbranch",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1410,
+            1148
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Red Kappa",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            839,
+            572
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Yeti",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2111,
+            1751
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant Crocodile",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            844,
+            628
+        ],
+        "description": ""
+    },
+    {
+        "name": "Imp King",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1205,
+            1073
+        ],
+        "description": "Upper stone tier."
+    },
+    {
+        "name": "Elite Child of Jhil",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1023,
+            1441
+        ],
+        "description": "Randomly drops Unwelcome Gift, Act of Violence."
+    },
+    {
+        "name": "Elite Jhil",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            988,
+            1411
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant Spider",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1235,
+            600
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Undead",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1536,
+            1173
+        ],
+        "description": "A random undead boss, ranging from skeletal slayers, He-Who-Walks-Below, and various other strong undead creatures."
+    },
+    {
+        "name": "Elite Bear",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1012,
+            1611
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Child of Jhil",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1009,
+            1469
+        ],
+        "description": "Randomly drops Black Blood Skinning Knife, Black Blood Hatchet, Black Blood Sickle, and Black Blood Pick."
+    },
+    {
+        "name": "The Atlantean King",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            800,
+            775
+        ],
+        "description": "In the last room of the Atlantean Tomb.",
+        "image": "The_Atlantean_King.png"
+    },
+    {
+        "name": "Elite Red Kappa",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            916,
+            565
+        ],
+        "description": ""
+    },
+    {
+        "name": "The King Beneath",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            786,
+            777
+        ],
+        "description": "Drops the Scroll for Vanquisher of the King Beneath and the Golden Key to open the interior of the dungeon.",
+        "image": "The_King_Beneath.png"
+    },
+    {
+        "name": "Giant Bear",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1666,
+            929
+        ],
+        "description": ""
+    },
+    {
+        "name": "Skeleton Slayer",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2100,
+            1180
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant Bear",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1948,
+            616
+        ],
+        "description": ""
+    },
+    {
+        "name": "King Ice Rocknose",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2076,
+            819
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Boar",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1161,
+            1385
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rhino King",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2265,
+            1362
+        ],
+        "description": ""
+    },
+    {
+        "name": "Rhino King",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            984,
+            1192
+        ],
+        "description": ""
+    },
+    {
+        "name": "Elite Crocodile",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            963,
+            612
+        ],
+        "description": ""
+    },
+    {
+        "name": "Avatar of Bokrug",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1657,
+            719
+        ],
+        "description": "",
+        "image": "Avatar_of_Bokrug.png"
+    },
+    {
+        "name": "The Kinscourge",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1086,
+            679
+        ],
+        "description": "",
+        "image": "The_Kinscourge.png"
+    },
+    {
+        "name": "White Tiger",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1014,
+            1113
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant Crocodile",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            748,
+            1586
+        ],
+        "description": ""
+    },
+    {
+        "name": "The Brute",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1543,
+            758
+        ],
+        "description": "At the very end of Broken Bones Cavern."
+    },
+    {
+        "name": "Elite Child of Jhil",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2344,
+            670
+        ],
+        "description": "Randomly drops Unwelcome Gift, Act of Violence."
+    },
+    {
+        "name": "Scorpion Queen",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1137,
+            1024
+        ],
+        "description": "Drops Scorpion Ward."
+    },
+    {
+        "name": "Elite Yeti",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2009,
+            1760
+        ],
+        "description": ""
+    },
+    {
+        "name": "Undead Dragon",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1568,
+            376
+        ],
+        "description": "At the end of the Old Mines.",
+        "image": "Undead_Dragon_-_Old_Mines.png"
+    },
+    {
+        "name": "The Red Mother",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            862,
+            861
+        ],
+        "description": "Mother and two babies."
+    },
+    {
+        "name": "Elite Boar",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1352,
+            798
+        ],
+        "description": ""
+    },
+    {
+        "name": "Locust Queen",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            506,
+            1418
+        ],
+        "description": ""
+    },
+    {
+        "name": "White Jaguar",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            886,
+            1595
+        ],
+        "description": ""
+    },
+    {
+        "name": "Sand Reaper Queen",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1356,
+            700
+        ],
+        "description": "Inside the Sand Reaper Den."
+    },
+    {
+        "name": "Elite Child of Jhil",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            988,
+            1420
+        ],
+        "description": "Drops Skeleton Key, Fragment of Power, and Scroll: Specialist Ammunition IV."
+    },
+    {
+        "name": "Frost Dragon",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            2016,
+            1360
+        ],
+        "description": ""
+    },
+    {
+        "name": "King Scorpion",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            718,
+            817
+        ],
+        "description": ""
+    },
+    {
+        "name": "Imp King",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1424,
+            1283
+        ],
+        "description": "Jump down the well in Vargrheim!"
+    },
+    {
+        "name": "Arena Champion",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1121,
+            1553
+        ],
+        "description": "",
+        "image": "Arena_Champion.png"
+    },
+    {
+        "name": "Giant Yeti",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            1736,
+            915
+        ],
+        "description": ""
+    },
+    {
+        "name": "Giant Spider",
+        "layer": "World Bosses & Elites",
+        "icon": "default",
+        "pos": [
+            480,
+            1388
+        ],
+        "description": ""
+    },
+    {
+        "name": "Ouroboros",
+        "layer": "Leviathan Dungeons",
+        "icon": "default",
+        "pos": [
+            1172,
+            1054
+        ],
+        "description": "Entry is inside the Serpentmen temple at the very bottom of the Crystal Cave",
+        "image": "Ouroboros.png"
+    },
+    {
+        "name": "The Armageddon Queen",
+        "layer": "Leviathan Dungeons",
+        "icon": "default",
+        "pos": [
+            1261,
+            1690
+        ],
+        "description": "",
+        "image": "The_Armageddon_Queen.png"
+    },
+    {
+        "name": "The Root Guardian",
+        "layer": "Leviathan Dungeons",
+        "icon": "default",
+        "pos": [
+            695,
+            1639
+        ],
+        "description": "",
+        "image": "The_Root_Guardian.png"
+    },
+    {
+        "name": "Keter",
+        "layer": "Leviathan Dungeons",
+        "icon": "default",
+        "pos": [
+            2379,
+            703
+        ],
+        "description": "Up up up!",
+        "image": "Keter.png"
+    },
+    {
+        "name": "Orkallion",
+        "layer": "Leviathan Dungeons",
+        "icon": "default",
+        "pos": [
+            848,
+            546
+        ],
+        "description": "",
+        "image": "Orkallion.png"
+    },
+    {
+        "name": "Movie Stage 2",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1596,
+            2082
+        ],
+        "description": "TeleportPlayer 345088 -126976 -18432"
+    },
+    {
+        "name": "Movie Stage 7",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1760,
+            2047
+        ],
+        "description": "TeleportPlayer 314368 -183296 -18432"
+    },
+    {
+        "name": "Movie Stage 8",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1853,
+            2047
+        ],
+        "description": "TeleportPlayer 314368 -211968 -18432"
+    },
+    {
+        "name": "Movie Stage 3",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1692,
+            2082
+        ],
+        "description": "TeleportPlayer 345088 -155648 -18432"
+    },
+    {
+        "name": "Movie Stage 5",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1760,
+            2082
+        ],
+        "description": "TeleportPlayer 344064 -183296 -18432"
+    },
+    {
+        "name": "Open-sky area 1",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1189,
+            358
+        ],
+        "description": "TeleportPlayer -240712 9233 -10088"
+    },
+    {
+        "name": "The Archipelago",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            490,
+            171
+        ],
+        "description": "TeleportPlayer -299000 234000 -15100"
+    },
+    {
+        "name": "Movie Stage 6",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1853,
+            2082
+        ],
+        "description": "TeleportPlayer 345088 -211968 -18432"
+    },
+    {
+        "name": "Open-sky area 2",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            814,
+            162
+        ],
+        "description": "TeleportPlayer -329460 128276 -6585"
+    },
+    {
+        "name": "The Island",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            821,
+            118
+        ],
+        "description": "TeleportPlayer -329460 128276 -6585"
+    },
+    {
+        "name": "Movie Stage 4",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1692,
+            2047
+        ],
+        "description": "TeleportPlayer 314368 -156672 -18432"
+    },
+    {
+        "name": "Movie Stage 1",
+        "layer": "Admin Stages",
+        "icon": "default",
+        "pos": [
+            1596,
+            2047
+        ],
+        "description": "TeleportPlayer 314407 -127769 -19319"
+    }
+]
