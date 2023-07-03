@@ -1,0 +1,37 @@
+name: Report a Map Problem
+description: Report any sort of problems or changes needed to the map.  Bad locations, wrong map pin marker, updates to screenshots, etc.
+title: "[BUG]: "
+labels: ["bug"]
+assignees:
+  - jgentil
+body:
+  - type: input
+    id: pin-title
+    attributes:
+      label: Pin Marker Name
+      description: The pin marker name exactly as seen on the map.
+      placeholder: Murun Gates
+    validations:
+      required: true
+  - type: textarea
+    id: pin-description
+    attributes:
+      label: Problem Description
+      description: What's wrong with the map pin?  Please describe what needs to be changed.  If you are suggesting an alternate screenshot, please attach it here and crop it to 300x300 pixels.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: Please share your Discord user ID if we need to contact you for further information
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Transfer of Rights
+      description: By submitting this request, you agree to our terms
+      options:
+        - label: I agree to grant all rights to the included information, screenshots, text, and data to the care of the Savage Wilds Map project and release said content into the Public Domain.
+          required: true

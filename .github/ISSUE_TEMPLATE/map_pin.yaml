@@ -1,0 +1,37 @@
+name: Create a Map Pin
+description: Create a custom map pin to be incldued in future versions of the map.
+title: "[PIN]: "
+labels: ["pin"]
+assignees:
+  - jgentil
+body:
+  - type: input
+    id: pin-title
+    attributes:
+      label: Location Name
+      description: The location name exactly as seen in the game map
+      placeholder: Murun Gates
+    validations:
+      required: true
+  - type: textarea
+    id: pin-description
+    attributes:
+      label: Location Details and Screenshot
+      description: Any details, description, notable loot or anything worth mentioning in the description text.  Please also attach a 300x300 pixel screenshot if the pin is for a specific item in-world.
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: Please share your Discord user ID if we need to contact you for further information
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Transfer of Rights
+      description: By submitting this request, you agree to our terms
+      options:
+        - label: I agree to grant all rights to the included information, screenshots, text, and data to the care of the Savage Wilds Map project and release said content into the Public Domain.
+          required: true
