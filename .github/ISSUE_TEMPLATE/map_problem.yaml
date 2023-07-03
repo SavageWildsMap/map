@@ -1,6 +1,6 @@
 name: Report a Map Problem
 description: Report any sort of problems or changes needed to the map.  Bad locations, wrong map pin marker, updates to screenshots, etc.
-title: "[BUG]: "
+title: "[BUG]: <type a brief description here>"
 labels: ["bug"]
 assignees:
   - jgentil

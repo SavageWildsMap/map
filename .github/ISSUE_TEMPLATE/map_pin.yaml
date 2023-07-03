@@ -1,6 +1,6 @@
 name: Create a Map Pin
 description: Create a custom map pin to be incldued in future versions of the map.
-title: "[PIN]: "
+title: "[PIN]: <type a brief description here>"
 labels: ["pin"]
 assignees:
   - jgentil
@@ -18,6 +18,13 @@ body:
     attributes:
       label: Location Details and Screenshot
       description: Any details, description, notable loot or anything worth mentioning in the description text.  Please also attach a 300x300 pixel screenshot if the pin is for a specific item in-world.
+    validations:
+      required: false
+  - type: input
+    id: coord
+    attributes:
+      label: Coordinates
+      description: The coordinates automatically generated from the map when adding a custom pin.  If unsure, leave blank.
     validations:
       required: false
   - type: input
