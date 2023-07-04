@@ -15,7 +15,11 @@ subjectively better screenshot for a particular item location?  Please
 #### I have a new marker pin to add! 
 Help me document pins and locations!  This is hard and I am NOT using the data files or mod files to document the pins,
 so I am at the mercy of my own exploration of the mod.  If you know of a location for something that needs to be added,
-please [Click Here](https://github.com/SavageWildsMap/map/issues/new) and select `Create a Map Pin`.
+please open the map and on the layers menu (on the right side) choose `Add New Marker` then click to place a new pin.
+#### I want something else
+Joining the [Savage Wilds Discord](https://discord.gg/pcSf4PvVNs) server in 
+the [General Spoilers](https://discord.com/channels/775129118135287828/899442929121239070) channel is the best place for
+discussion!  I'm always lurking there.
 
 ### Licenses
 * Portions of this work are derived from the previous map creator and those derivations are approved for use.
