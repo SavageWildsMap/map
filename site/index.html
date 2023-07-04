@@ -62,6 +62,11 @@
             max-width: 450px !important;
             max-height: 400px !important;
         }
+        .popup button
+        {
+            min-width: 160px;
+            min-height: 25px;
+        }
         /* Force the leaflet popup to have an auto width for embedded images */
         .leaflet-popup-content {
             width:auto !important;
@@ -80,6 +85,7 @@
     const MAP_SIZE = [2447, 2209]
     const MARKERS_FILENAME = 'data/markers.json';
     const ICONS_FILENAME = 'data/icons.json';
+    let user_marker;
 
     (async function main() {
         // Load data
@@ -104,7 +110,7 @@
             attributionControl: true,
             layers: [ main_layer ]
         });
-        map.attributionControl.addAttribution('Visit <a href="https://discord.gg/pcSf4PvVNs">Savage Wilds Discord Server</a> to contribute!');
+        map.attributionControl.addAttribution('Click "Add New Marker" layer to submit a new pin');
         map.attributionControl.setPrefix('');
         // Create custom icons first
         const icons = {};
@@ -142,7 +148,27 @@
         // add layers to map
         markergroups.base.addTo(map);
         delete markergroups.base;
+        markergroups['Add New Marker'] = L.layerGroup();
+
         L.control.layers({"Savage Wilds": main_layer}, markergroups).addTo(map);
+        map.on("click", function (e){
+            if (user_marker) {
+                user_marker.removeFrom(markergroups['Add New Marker']);
+            }
+            user_marker = new L.Marker([e.latlng.lat, e.latlng.lng],
+                {
+                    title: "User Marker",
+                    opacity: 0.9
+                }
+            );
+            // Add popup
+            let coord = `${e.latlng.lat.toFixed(2)},${e.latlng.lng.toFixed(2)}`;
+            let url = `https://github.com/SavageWildsMap/map/issues/new?assignees=jgentil&labels=pin&template=map_pin.yaml&coord=${coord}`;
+            let popuphtml = `<div class="popup"><h5>User Marker</h5><div><button onclick="window.open('${url}', '_blank');">Click Here To Submit</button>or click on the map again to move the marker to a different position</div>`;
+            user_marker.bindPopup(popuphtml, {maxWidth: 450}).openPopup();
+            user_marker.addTo(markergroups['Add New Marker']);
+            user_marker.openPopup();
+        })
     })();
 </script>
 </html>

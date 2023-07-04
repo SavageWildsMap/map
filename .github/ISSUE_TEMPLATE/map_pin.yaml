@@ -20,6 +20,28 @@ body:
       description: Any details, description, notable loot or anything worth mentioning in the description text.  Please also attach a 300x300 pixel screenshot if the pin is for a specific item in-world.
     validations:
       required: false
+  - type: dropdown
+    id: layername
+    attributes:
+      label: Layer
+      description: Choose a layer for the pin to appear on.
+      multiple: false
+      options:
+        - Base Map
+        - Caravans
+        - Merchants
+        - No Man's Land POIs
+        - Miscellaneous POI
+        - Language Scrolls
+        - Pets
+        - Feats & Recipes
+        - Religion Trainers
+        - Emotes
+        - Pet & Thrall Emotes
+        - Lotus
+        - World Bosses & Elites
+        - Leviathan Dungeons
+        - Admin Stages
   - type: input
     id: coord
     attributes:
